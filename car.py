@@ -25,34 +25,36 @@ from selenium.common.exceptions import StaleElementReferenceException
 
 
 
-service = Service('//usr/bin/chromedriver')
-service.start()
-browser = webdriver.Remote(service.service_url)
 
 
-# try:
-browser.get("https://www.receita.fazenda.gov.br/PessoaJuridica/CNPJ/cnpjreva/Cnpjreva_Solicitacao.asp")
+for i in range(1202,1251):
+    service = Service('//usr/bin/chromedriver')
+    service.start()
+    browser = webdriver.Remote(service.service_url)
+    # try:
+    browser.get("https://www.receita.fazenda.gov.br/PessoaJuridica/CNPJ/cnpjreva/Cnpjreva_Solicitacao.asp")
 
-browser.switch_to_frame(browser.find_element_by_xpath('/html/frameset/frame[@name="main"]'))
-button = WebDriverWait(browser, 5).until(
-    EC.visibility_of_element_located((By.XPATH, '//input[@name="captchaSonoro"]'))
-)
-button.click()
+    browser.switch_to_frame(browser.find_element_by_xpath('/html/frameset/frame[@name="main"]'))
+    button = WebDriverWait(browser, 5).until(
+        EC.visibility_of_element_located((By.XPATH, '//input[@name="captchaSonoro"]'))
+    )
+    button.click()
 
-image = browser.find_element_by_tag_name('img')
-
-
-if browser.save_screenshot("cnpj.png"):
-    print("Screenshot saved!")
-
-image_cv = cv.imread("cnpj.png")
-# crop = image_cv[250:-615,205:380]
-
-crop = image_cv[261:291,205:380]
-
-cv.imwrite("imageteste.png", crop)
+    image = browser.find_element_by_tag_name('img')
 
 
-browser.quit()
+    if browser.save_screenshot("cnpj.png"):
+        print("Screenshot saved! %s"%(i))
+
+    image_cv = cv.imread("cnpj.png")
+    # crop = image_cv[250:-615,205:380]
+
+    crop = image_cv[261:291,205:380]
+    filename = "/home/araketu/Documentos/dev/random/img/%s.png"%(i)
+
+    cv.imwrite(filename, crop)
+
+
+    browser.quit()
 # except:
 #     print("oi")
