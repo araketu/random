@@ -17,7 +17,7 @@ from wand.display import display
 
 
 #convert mp3 file to wav                                                       
-sound = AudioSegment.from_mp3("teste.mp3")
+sound = AudioSegment.from_mp3("/home/araketu/Downloads/soundCaptcha")
 sound.export("transcript.wav", format="wav")
 
 

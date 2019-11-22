@@ -24,6 +24,10 @@ from pyvirtualdisplay import Display
 import pyautogui
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
+
+
+
+
 cap = DesiredCapabilities().FIREFOX
 
 options = webdriver.FirefoxProfile()
@@ -80,67 +84,60 @@ pyautogui.typewrite(['down','down','down','down','down','enter'])
 time.sleep(3) 
 
 pyautogui.typewrite(['enter'])
+time.sleep(1)
+pyautogui.typewrite(['enter'])
 
 driver.save_screenshot("/home/araketu/Documentos/dev/random/tst.png")
 
 print('\nFazendo o Download do arquivo de som ')
 time.sleep(3) 
 
-# driver.get('http://aplicacao.jt.jus.br/cndtCertidao/soundCaptcha?x.mp3')
-# driver.switch_to_window(driver.window_handles[0])
-
-# import time, sys
-# import urllib.request as us
-
-# url ='http://aplicacao.jt.jus.br/cndtCertidao/soundCaptcha?x.mp3'
-
-# print ("Connecting to "+url)
-# response = us.urlopen(url, timeout=10.0)
-# fname = "Sample"+str(time.clock())[2:]+".mp3"
-# f = open(fname, 'wb')
-# block_size = 1024
-# print ("Recording roughly 10 seconds of audio Now - Please wait")
-# limit = 10
-# start = time.time()
-# while time.time() - start < limit:
-#     try:
-#         audio = response.read(block_size)
-#         if not audio:
-#             break
-#         f.write(audio)
-#         sys.stdout.write('.')
-#         sys.stdout.flush()
-#     except Exception as e:
-#         print ("Error "+str(e))
-# f.close()
-# sys.stdout.flush()
-# driver.quit()
-# print("")
-# print ("10 seconds from "+url+" have been recorded in "+fname)
+#convert mp3 file to wav                                                       
+sound = AudioSegment.from_mp3("/home/araketu/Downloads/soundCaptcha")
+sound.export("transcript.wav", format="wav")
 
 
+fh = open("recognized.txt", "w+") 
+
+AUDIO_FILE = 'transcript.wav' 
+
+# Initialize the recognizer 
+r = sr.Recognizer() 
+
+# Traverse the audio file and listen to the audio 
+with sr.AudioFile(AUDIO_FILE) as source: 
+    audio_listened = r.listen(source) 
+
+# Try to recognize the listened audio 
+# And catch expections. 
+try:	 
+    rec = r.recognize_google(audio_listened,language='pt-br') 
+    
+    # If recognized, write into the file. 
+    fh.write(rec+" ")
+    nums=rec 
+
+# If google could not understand the audio 
+except sr.UnknownValueError: 
+    print("Could not understand audio") 
+
+# If the results cannot be requested from Google. 
+# Probably an internet connection error. 
+except sr.RequestError as e: 
+    print("Could not request results.") 
+
+inputer2 = driver.find_element_by_xpath("//input[@name='gerarCertidaoForm:textoAudioCaptcha']")
+inputer2.send_keys(nums)
+
+emiti = driver.find_element_by_xpath("//input[@name='gerarCertidaoForm:btnEmitirCertidao']")
+emiti.click()
+
+time.sleep(3)
+
+pyautogui.typewrite(['enter','enter'])
 
 
-import sounddevice as sd
-from scipy.io.wavfile import write
-import os
-
-fs = 44100  # this is the frequency sampling; also: 4999, 64000
-seconds = 12  # Duration of recording
-
-# sd.default.device = sd.query_devices()[8]["name"]
-print(sd.query_devices())
-sd.default.device = 0
+driver.save_screenshot("/home/araketu/Documentos/dev/random/tst.png")
 
 
-myrecording = sd.rec(int(seconds * fs), samplerate=fs, channels=2)
-print("Starting: Speak now!")
-sd.wait()  # Wait until recording is finished
-print("finished")
-write('output.wav', fs, myrecording)  # Save as WAV file
-# # os.startfile("output.wav")
-
-
-
-time.sleep(10) 
 driver.quit()
