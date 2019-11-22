@@ -17,13 +17,13 @@ from wand.display import display
 
 
 #convert mp3 file to wav                                                       
-sound = AudioSegment.from_mp3("soundCaptcha (2).mp3")
+sound = AudioSegment.from_mp3("teste.mp3")
 sound.export("transcript.wav", format="wav")
 
 
 fh = open("recognized.txt", "w+") 
 
-AUDIO_FILE = 'output.wav' 
+AUDIO_FILE = 'transcript.wav' 
 
 # Initialize the recognizer 
 r = sr.Recognizer() 
@@ -35,7 +35,7 @@ with sr.AudioFile(AUDIO_FILE) as source:
 # Try to recognize the listened audio 
 # And catch expections. 
 try:	 
-    rec = r.recognize_google(audio_listened,language='pt') 
+    rec = r.recognize_google(audio_listened,language='pt-br') 
     
     # If recognized, write into the file. 
     fh.write(rec+" ")

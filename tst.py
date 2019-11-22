@@ -19,13 +19,26 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from selenium.common.exceptions import StaleElementReferenceException
+from selenium.webdriver import ActionChains
+from pyvirtualdisplay import Display
+import pyautogui
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+
+cap = DesiredCapabilities().FIREFOX
+
+options = webdriver.FirefoxProfile()
+options.set_preference("driver.download.dir", "/home/araketu/Documentos/dev/random")
+options.set_preference("driver.download.useDownloadDir", True)
+options.set_preference("driver.helperApps.neverAsk.saveToDisk", "audio/mpeg")
+
+# display = Display(visible=0, size=(800, 600))
+# display.start()
+cap["marionette"] = True
 
 
+driver = webdriver.Firefox(firefox_profile=options, executable_path="//usr/local/bin/geckodriver")
 
 
-service = Service('//usr/bin/chromedriver')
-service.start()
-driver = webdriver.Remote(service.service_url)
 print('\nEntrando no site TST...')
 driver.get('http://www.tst.jus.br/certidao')
 
@@ -49,6 +62,7 @@ inputer = driver.find_element_by_xpath("//input[@name='gerarCertidaoForm:cpfCnpj
 inputer.send_keys('19161345000155')
 
 
+
 print("\nentrou na condição")
 WebDriverWait(driver, 10).until(
         
@@ -60,17 +74,25 @@ WebDriverWait(driver, 10).until(
 print("\nProcurando e clicando no  botão para ouvir ")
 soundb= driver.find_element_by_xpath("//a[@href='soundCaptcha?x.mp3']")
 soundb.click()
+actionChain = ActionChains(driver)
+actionChain.context_click(soundb).perform()
+pyautogui.typewrite(['down','down','down','down','down','enter'])
+time.sleep(3) 
+
+pyautogui.typewrite(['enter'])
 
 driver.save_screenshot("/home/araketu/Documentos/dev/random/tst.png")
 
 print('\nFazendo o Download do arquivo de som ')
-#driver.switch_to_window(driver.window_handles[0])
-#driver.get('http://aplicacao.jt.jus.br/cndtCertidao/soundCaptcha?x.mp3')
+time.sleep(3) 
 
+# driver.get('http://aplicacao.jt.jus.br/cndtCertidao/soundCaptcha?x.mp3')
+# driver.switch_to_window(driver.window_handles[0])
 
 # import time, sys
 # import urllib.request as us
 
+# url ='http://aplicacao.jt.jus.br/cndtCertidao/soundCaptcha?x.mp3'
 
 # print ("Connecting to "+url)
 # response = us.urlopen(url, timeout=10.0)
@@ -97,6 +119,8 @@ print('\nFazendo o Download do arquivo de som ')
 # print ("10 seconds from "+url+" have been recorded in "+fname)
 
 
+
+
 import sounddevice as sd
 from scipy.io.wavfile import write
 import os
@@ -106,9 +130,10 @@ seconds = 12  # Duration of recording
 
 # sd.default.device = sd.query_devices()[8]["name"]
 print(sd.query_devices())
-# sd.default.device = 0
+sd.default.device = 0
 
-myrecording = sd.rec(int(seconds * fs), samplerate=fs, channels=2, out=2)
+
+myrecording = sd.rec(int(seconds * fs), samplerate=fs, channels=2)
 print("Starting: Speak now!")
 sd.wait()  # Wait until recording is finished
 print("finished")
@@ -117,5 +142,5 @@ write('output.wav', fs, myrecording)  # Save as WAV file
 
 
 
-time.sleep(2) 
+time.sleep(10) 
 driver.quit()

@@ -1,0 +1,1975 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Jovem Pan | Esportes, entretenimento, notícias e vídeos com credibilidade</title>
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://jovempan.com.br/xmlrpc.php" />
+	<meta name="google-site-verification" content="9DpDuCwljQVBCVGteZphBsNsnjyA5ZqEnE3Lsvvo5Ao" />
+	<link rel="alternate" type="application/rss+xml" title="Feed para Jovem Pan Online &raquo;" href="https://jovempan.com.br/feed" />
+	<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Jovem Pan Online &raquo;" href="https://jovempan.com.br/comments/feed" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-title" content="Jovem Pan">
+
+	<link rel='dns-prefetch' href='//jovempan.com.br' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://jovempan.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='related-posts-style-css'  href='/wp-content/plugins/jms-related-posts/assets/css/style.css?ver=47cd76e43f74bbc2e1baaf194d07e1fa' type='text/css' media='all' />
+<link rel='stylesheet' id='main_style-css'  href='//s.jpimg.com.br/wp-content/themes/jovempan/assets/build/css/main.css?ver=c18822d242a222ef55eddff17e6bafda' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='https://jovempan.com.br/?sccss=1&#038;ver=5.2.3' type='text/css' media='all' />
+<link rel="canonical" href="https://jovempan.com.br/" />
+
+		<!-- SEO Meta Tags BEGIN -->
+		<meta name="description" content="Esportes, entretenimento, notícias e vídeos com credibilidade" />
+
+		<!-- para o Twitter Card -->
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:site" content="@portaljovempan">
+		<meta name="twitter:title" content="Jovem Pan &#8211; Esportes, entretenimento, notícias e vídeos com credibilidade">
+		<meta name="twitter:description" content="Esportes, entretenimento, notícias e vídeos com credibilidade">
+		<meta name="twitter:image" content="//jpimg.com.br/uploads/2018/04/logo-jovempan-black.png">
+		
+		<!-- para o sistema Open Graph -->
+		<meta property="og:title" content="Jovem Pan &#8211; Esportes, entretenimento, notícias e vídeos com credibilidade" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://jovempan.com.br/?listen=jpfm" />
+					<meta property="og:image" content="//jpimg.com.br/uploads/2018/04/logo-jovempan-black.png" />
+			<meta property="og:image:width" content="478" />
+			<meta property="og:image:height" content="249" />
+		
+		<meta property="og:description" content="Esportes, entretenimento, notícias e vídeos com credibilidade" />
+		<meta property="og:site_name" content="Jovem Pan &#8211; Esportes, entretenimento, notícias e vídeos com credibilidade" />
+		
+		<meta property="fb:admins" content="182364316471" />
+
+		<!-- SEO Meta Tags END -->
+		<link rel="apple-touch-icon" sizes="180x180" href="//s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/apple-touch-icon.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="//s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="//s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/favicon-16x16.png">
+      <link rel="manifest" href="//s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/site.webmanifest">
+      <link rel="mask-icon" href="//s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/safari-pinned-tab.svg" color="#c71d22">
+      <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="theme-color" content="#ffffff">
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-T7QL69Z');
+	</script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104870493-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-104870493-1');
+  </script>
+
+	<script type="text/javascript">
+		window.SITE_MAIN_URL = "https://jovempan.com.br";
+		window.SITE_THEME_URL = "/wp-content/themes/jovempan";
+	</script>
+	<!-- Hotjar Tracking Code for http://jovempan.com.br -->
+	<script>
+		(function(h, o, t, j, a, r) {
+			h.hj = h.hj || function() {
+				(h.hj.q = h.hj.q || []).push(arguments)
+			};
+			h._hjSettings = {
+				hjid: 559594,
+				hjsv: 5
+			};
+			a = o.getElementsByTagName('head')[0];
+			r = o.createElement('script');
+			r.async = true;
+			r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');
+	</script>
+	<!-- /Hotjar -->
+	<script id="navegg" type="text/javascript">
+		(function(n, v, g) {
+			o = "Navegg";
+			if (!n[o]) {
+				a = v.createElement('script');
+				a.src = g;
+				b = document.getElementsByTagName('script')[0];
+				b.parentNode.insertBefore(a, b);
+				n[o] = n[o] || function(parms) {
+					n[o].q = n[o].q || [];
+					n[o].q.push([this, parms])
+				};
+			}
+		})
+		(window, document, 'https://tag.navdmp.com/universal.min.js');
+		window.naveggReady = window.naveggReady || [];
+		window.nvg54651 = new Navegg({
+			acc: 54651
+		});
+	</script>
+	<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+	<script type="text/javascript">
+		(function () {
+			window.universal_variable = window.universal_variable || {};
+			window.universal_variable.dfp = window.universal_variable.dfp || {};
+			window.uolads = window.uolads || [];
+		})();
+	</script>
+
+	<script type="text/javascript" src="//tm.jsuol.com.br/uoltm.js?id=o3b8iw" async></script>
+</head>
+
+<body class="home page-template-default page page-id-90714 gllr_jovempan.com.br pagename-home">
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T7QL69Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<div id="root"></div>
+	<header id="main-header">
+		<nav class="header-top hidden-xs hidden-sm">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+													<div class="logo-site">
+								<a href="https://jovempan.com.br/especial/premio-cabore" title="Jovem Pan" rel="home">
+								<!-- <a href="" title="" rel="home"> -->
+									Jovem Pan								</a>
+							</div>
+											</div>
+					<div class="col-md-7">
+						<ul class="live-button-wrapper">
+							<li class="live-button newsletter" data-headerlink="newsletter">
+								<a href="/newsletter">newsletter <i class="fa fa-envelope"></i></a>
+							</li>
+
+											<li class="live-button affiliates" class="dropdown">
+					<a href="#" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle disabled">
+						<span class="desktop">Mude a Cidade</span>
+						<i class="fa fa-map-marker-alt"></i>
+					</a>
+					<ul role="menu" class=" dropdown-menu">
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/maceio-fm" class="no-ajax">AL - Maceió - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/manaus-fm" class="no-ajax">AM - Manaus - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/macapa-news" class="no-ajax">AP - Macapá - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/feiradesantana-fm" class="no-ajax">BA - Feira de Santana - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/salvador-fm" class="no-ajax">BA - Salvador - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/fortaleza-fm" class="no-ajax">CE - Fortaleza - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/fortaleza-news" class="no-ajax">CE - Fortaleza - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/jericoacoara-fm" class="no-ajax">CE - Jericoacoara - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/brasilia-fm" class="no-ajax">DF - Brasília - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/brasilia-news" class="no-ajax">DF - Brasília - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/vitoria-fm" class="no-ajax">ES - Vitória - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/vitoria-news" class="no-ajax">ES - Vitória - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/aguas-lindas-news" class="no-ajax">GO - Águas Lindas - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/goiania-fm" class="no-ajax">GO - Goiânia - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/saoluis-fm" class="no-ajax">MA - São Luís - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/saoluis-news" class="no-ajax">MA - São Luís - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/araxa-fm" class="no-ajax">MG - Araxá - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/bh-fm" class="no-ajax">MG - Belo Horizonte - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/cataguases-fm" class="no-ajax">MG - Cataguases - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/ipatinga-fm" class="no-ajax">MG - Ipatinga - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/passos-fm" class="no-ajax">MG - Passos - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/patosdeminas-fm" class="no-ajax">MG - Patos de Minas - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/pocosdecaldas-fm" class="no-ajax">MG - Poços de Caldas - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/uberaba-fm" class="no-ajax">MG - Uberaba - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/treslagoas-fm" class="no-ajax">MS - Três Lagoas - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/barra-do-garcas-fm" class="no-ajax">MT - Barra do Garças - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/cuiaba-fm" class="no-ajax">MT - Cuiabá - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/sulmatogrossense-fm" class="no-ajax">MT - Sul Matogrossense - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/joaopessoa-fm" class="no-ajax">PB - João Pessoa - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/caruaru-fm" class="no-ajax">PE - Caruaru - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/recife-fm" class="no-ajax">PE - Recife - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/arapoti-fm" class="no-ajax">PR - Arapoti - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/cascavel-fm" class="no-ajax">PR - Cascavel - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/curitiba-fm" class="no-ajax">PR - Curitiba - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/mercosul-fm" class="no-ajax">PR - Foz do Iguaçu - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/londrina-fm" class="no-ajax">PR - Londrina - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/maringa-fm" class="no-ajax">PR - Maringá - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/pontagrossa-fm" class="no-ajax">PR - Ponta Grossa - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/uniaodavitoria-fm" class="no-ajax">PR - União da Vitória - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/itaperuna-fm" class="no-ajax">RJ - Itaperuna - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/tresrios-fm" class="no-ajax">RJ - Três Rios - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/natal-fm" class="no-ajax">RN - Natal - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/serido-fm" class="no-ajax">RN - Seridó - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/grandepoa-fm" class="no-ajax">RS - Grande Porto Alegre - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/imbe-news" class="no-ajax">RS - Imbé - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/osorio-fm" class="no-ajax">RS - Osório - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/serragaucha-fm" class="no-ajax">RS - Serra Gaúcha - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/alto-vale-fm" class="no-ajax">SC - Alto Vale - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/floripa-fm" class="no-ajax">SC - Florianópolis - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/itajai-fm" class="no-ajax">SC - Itajaí Camboriú - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/joacaba-fm" class="no-ajax">SC - Joaçaba - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/joinville-fm" class="no-ajax">SC - Joinville - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/joinville-news" class="no-ajax">SC - Joinville - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/riodosul-news" class="no-ajax">SC - Rio do Sul - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/aracaju-fm" class="no-ajax">SE - Aracaju - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/andradina-news" class="no-ajax">SP - Andradina - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/aracatuba-fm" class="no-ajax">SP - Araçatuba - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/avare-fm" class="no-ajax">SP - Avaré - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/barrabonita-fm" class="no-ajax">SP - Barra Bonita - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/barretos-fm" class="no-ajax">SP - Barretos - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/barretos-news" class="no-ajax">SP - Barretos - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/bauru-news" class="no-ajax">SP - Bauru - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/bauru-fm" class="no-ajax">SP - Bauru - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/botucatu-news" class="no-ajax">SP - Botucatu - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/campinas-fm" class="no-ajax">SP - Campinas - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/campinas-news" class="no-ajax">SP - Campinas - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/catanduva-fm" class="no-ajax">SP - Catanduva - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/dracena-fm" class="no-ajax">SP - Dracena - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/itapeva-fm" class="no-ajax">SP - Itapeva - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/jaboticabal-news" class="no-ajax">SP - Jaboticabal - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/marilia-fm" class="no-ajax">SP - Marília - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/matao-fm" class="no-ajax">SP - Matão - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/piracicaba-fm" class="no-ajax">SP - Piracicaba - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/piracicaba-news" class="no-ajax">SP - Piracicaba - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/pompeia-news" class="no-ajax">SP - Pompéia - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/prudente-fm" class="no-ajax">SP - Presidente Prudente - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/ribeiraopreto-fm" class="no-ajax">SP - Ribeirão Preto - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/rioclaro-news" class="no-ajax">SP - Rio Claro - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/santafedosul-fm" class="no-ajax">SP - Santa Fé do Sul - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/santos-fm" class="no-ajax">SP - Santos - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/santos-news" class="no-ajax">SP - Santos - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/saojosedoriopreto-news" class="no-ajax">SP - São José do Rio Preto - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/saojose-fm" class="no-ajax">SP - São José dos Campos - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/sulpaulista-fm" class="no-ajax">SP - Sul Paulista - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/taubate-fm" class="no-ajax">SP - Taubaté - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/tupa-fm" class="no-ajax">SP - Tupã - FM</a>
+							</li>
+											</ul>
+				</li>
+				
+							<li class="live-button live-button--tre">
+								<a href="#" data-toggle="dropdown" class="dropdown-toggle disabled no-ajax">
+									<span>Horário Eleitoral</span>
+									<i class="fa fa-headphones"></i>
+								</a>
+								<ul role="menu" class=" dropdown-menu">
+									<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+										<a href="#" class="dropdown-widget__link" data-playlink="true" data-playlink-type="audio" data-playlink-source="http://sh.upx.com.br:9250/stream" data-playlink-title="Horário Eleitoral - TRE">Streaming 1</a>
+									</li>
+									<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+										<a href="#" class="dropdown-widget__link" data-playlink="true" data-playlink-type="audio" data-playlink-source="http://sh.upx.com.br:9248/stream" data-playlink-title="Horário Eleitoral - TRE">Streaming 2</a>
+									</li>
+								</ul>
+							</li>
+
+							  <li class="live-button">
+    <a id="btn-aovivo" href="#" title="Ao Vivo" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle disabled">
+      <span class="desktop">Ouça ao vivo</span>
+      <i class="fa fa-headphones"></i>
+    </a>
+
+    <ul role="menu" class=" dropdown-menu">
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+        <a href="#" class="dropdown-widget__link" data-playlink="true" data-playlink-type="live" data-playlink-source="jpam">JP AM</a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+        <a href="#" class="dropdown-widget__link" data-playlink="true" data-playlink-type="live" data-playlink-source="jpfm">JP FM</a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+        <a href="#" class="dropdown-widget__link" data-playlink="true" data-playlink-type="live" data-playlink-source="jpnews">JP News</a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+        <a href="#" class="dropdown-widget__link" data-playlink="true" data-playlink-type="live" data-playlink-source="jpclassic">Classic Pan</a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+        <a href="#" class="dropdown-widget__link" data-playlink="true" data-playlink-type="live" data-playlink-source="jpmpb">MPB</a>
+      </li>
+    </ul>
+  </li>
+  						</ul>
+					</div>
+					<div class="col-md-2">
+						<div class="search-form" data-headersearchbar="true"></div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</nav>
+		<nav class="header-bar">
+			<div class="container">
+				<a href="#" class="menu-link" data-toggle="dropdown">
+					<i class="fa fa-bars"></i>
+				</a>
+				<a href="#" class="close-menu" data-toggle="dropdown">×</a>
+				<div class="logo">
+					<a href="/">
+						<img src="//s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jovempan-cabore-mobile.png" alt="Jovem Pan" title="Jovem Pan">
+					</a>
+				</div>
+				<ul class="live-button-wrapper visible-sm visible-xs">
+									<li class="live-button affiliates" class="dropdown">
+					<a href="#" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle disabled">
+						<span class="desktop">Mude a Cidade</span>
+						<i class="fa fa-map-marker-alt"></i>
+					</a>
+					<ul role="menu" class=" dropdown-menu">
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/maceio-fm" class="no-ajax">AL - Maceió - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/manaus-fm" class="no-ajax">AM - Manaus - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/macapa-news" class="no-ajax">AP - Macapá - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/feiradesantana-fm" class="no-ajax">BA - Feira de Santana - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/salvador-fm" class="no-ajax">BA - Salvador - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/fortaleza-fm" class="no-ajax">CE - Fortaleza - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/fortaleza-news" class="no-ajax">CE - Fortaleza - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/jericoacoara-fm" class="no-ajax">CE - Jericoacoara - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/brasilia-fm" class="no-ajax">DF - Brasília - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/brasilia-news" class="no-ajax">DF - Brasília - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/vitoria-fm" class="no-ajax">ES - Vitória - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/vitoria-news" class="no-ajax">ES - Vitória - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/aguas-lindas-news" class="no-ajax">GO - Águas Lindas - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/goiania-fm" class="no-ajax">GO - Goiânia - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/saoluis-fm" class="no-ajax">MA - São Luís - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/saoluis-news" class="no-ajax">MA - São Luís - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/araxa-fm" class="no-ajax">MG - Araxá - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/bh-fm" class="no-ajax">MG - Belo Horizonte - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/cataguases-fm" class="no-ajax">MG - Cataguases - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/ipatinga-fm" class="no-ajax">MG - Ipatinga - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/passos-fm" class="no-ajax">MG - Passos - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/patosdeminas-fm" class="no-ajax">MG - Patos de Minas - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/pocosdecaldas-fm" class="no-ajax">MG - Poços de Caldas - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/uberaba-fm" class="no-ajax">MG - Uberaba - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/treslagoas-fm" class="no-ajax">MS - Três Lagoas - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/barra-do-garcas-fm" class="no-ajax">MT - Barra do Garças - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/cuiaba-fm" class="no-ajax">MT - Cuiabá - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/sulmatogrossense-fm" class="no-ajax">MT - Sul Matogrossense - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/joaopessoa-fm" class="no-ajax">PB - João Pessoa - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/caruaru-fm" class="no-ajax">PE - Caruaru - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/recife-fm" class="no-ajax">PE - Recife - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/arapoti-fm" class="no-ajax">PR - Arapoti - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/cascavel-fm" class="no-ajax">PR - Cascavel - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/curitiba-fm" class="no-ajax">PR - Curitiba - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/mercosul-fm" class="no-ajax">PR - Foz do Iguaçu - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/londrina-fm" class="no-ajax">PR - Londrina - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/maringa-fm" class="no-ajax">PR - Maringá - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/pontagrossa-fm" class="no-ajax">PR - Ponta Grossa - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/uniaodavitoria-fm" class="no-ajax">PR - União da Vitória - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/itaperuna-fm" class="no-ajax">RJ - Itaperuna - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/tresrios-fm" class="no-ajax">RJ - Três Rios - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/natal-fm" class="no-ajax">RN - Natal - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/serido-fm" class="no-ajax">RN - Seridó - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/grandepoa-fm" class="no-ajax">RS - Grande Porto Alegre - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/imbe-news" class="no-ajax">RS - Imbé - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/osorio-fm" class="no-ajax">RS - Osório - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/serragaucha-fm" class="no-ajax">RS - Serra Gaúcha - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/alto-vale-fm" class="no-ajax">SC - Alto Vale - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/floripa-fm" class="no-ajax">SC - Florianópolis - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/itajai-fm" class="no-ajax">SC - Itajaí Camboriú - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/joacaba-fm" class="no-ajax">SC - Joaçaba - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/joinville-fm" class="no-ajax">SC - Joinville - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/joinville-news" class="no-ajax">SC - Joinville - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/riodosul-news" class="no-ajax">SC - Rio do Sul - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/aracaju-fm" class="no-ajax">SE - Aracaju - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/andradina-news" class="no-ajax">SP - Andradina - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/aracatuba-fm" class="no-ajax">SP - Araçatuba - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/avare-fm" class="no-ajax">SP - Avaré - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/barrabonita-fm" class="no-ajax">SP - Barra Bonita - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/barretos-fm" class="no-ajax">SP - Barretos - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/barretos-news" class="no-ajax">SP - Barretos - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/bauru-news" class="no-ajax">SP - Bauru - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/bauru-fm" class="no-ajax">SP - Bauru - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/botucatu-news" class="no-ajax">SP - Botucatu - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/campinas-fm" class="no-ajax">SP - Campinas - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/campinas-news" class="no-ajax">SP - Campinas - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/catanduva-fm" class="no-ajax">SP - Catanduva - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/dracena-fm" class="no-ajax">SP - Dracena - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/itapeva-fm" class="no-ajax">SP - Itapeva - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/jaboticabal-news" class="no-ajax">SP - Jaboticabal - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/marilia-fm" class="no-ajax">SP - Marília - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/matao-fm" class="no-ajax">SP - Matão - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/piracicaba-fm" class="no-ajax">SP - Piracicaba - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/piracicaba-news" class="no-ajax">SP - Piracicaba - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/pompeia-news" class="no-ajax">SP - Pompéia - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/prudente-fm" class="no-ajax">SP - Presidente Prudente - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/ribeiraopreto-fm" class="no-ajax">SP - Ribeirão Preto - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/rioclaro-news" class="no-ajax">SP - Rio Claro - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/santafedosul-fm" class="no-ajax">SP - Santa Fé do Sul - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/santos-fm" class="no-ajax">SP - Santos - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/santos-news" class="no-ajax">SP - Santos - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/saojosedoriopreto-news" class="no-ajax">SP - São José do Rio Preto - NEWS</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/saojose-fm" class="no-ajax">SP - São José dos Campos - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/sulpaulista-fm" class="no-ajax">SP - Sul Paulista - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/taubate-fm" class="no-ajax">SP - Taubaté - FM</a>
+							</li>
+													<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+								<a href="https://migracao.jovempan.com.br/afiliada/tupa-fm" class="no-ajax">SP - Tupã - FM</a>
+							</li>
+											</ul>
+				</li>
+									  <li class="live-button">
+    <a id="btn-aovivo" href="#" title="Ao Vivo" data-toggle="dropdown" aria-haspopup="true" class="dropdown-toggle disabled">
+      <span class="desktop">Ouça ao vivo</span>
+      <i class="fa fa-headphones"></i>
+    </a>
+
+    <ul role="menu" class=" dropdown-menu">
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+        <a href="#" class="dropdown-widget__link" data-playlink="true" data-playlink-type="live" data-playlink-source="jpam">JP AM</a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+        <a href="#" class="dropdown-widget__link" data-playlink="true" data-playlink-type="live" data-playlink-source="jpfm">JP FM</a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+        <a href="#" class="dropdown-widget__link" data-playlink="true" data-playlink-type="live" data-playlink-source="jpnews">JP News</a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+        <a href="#" class="dropdown-widget__link" data-playlink="true" data-playlink-type="live" data-playlink-source="jpclassic">Classic Pan</a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+        <a href="#" class="dropdown-widget__link" data-playlink="true" data-playlink-type="live" data-playlink-source="jpmpb">MPB</a>
+      </li>
+    </ul>
+  </li>
+  				</ul>
+				<div id="header-bar--menu-container" class="menu-menu-superior-container"><ul id="menu-menu-superior" class="header-bar--menu"><li id="menu-item-14516" class="noticias menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-14516 dropdown" data-headerlink="noticias" ><a title="News" href="https://jovempan.com.br/noticias" data-toggle="dropdown" class="dropdown-toggle disabled" aria-haspopup="true">News <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-498281" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-498281"><a title="Brasil" href="https://jovempan.com.br/noticias/brasil">Brasil</a></li>
+	<li id="menu-item-498282" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-498282"><a title="Mundo" href="https://jovempan.com.br/noticias/mundo">Mundo</a></li>
+	<li id="menu-item-498283" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-498283"><a title="Economia" href="https://jovempan.com.br/noticias/economia">Economia</a></li>
+</ul>
+</li>
+<li id="menu-item-14519" class="esportes menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-14519 dropdown" data-headerlink="esportes" ><a title="Esportes" href="https://jovempan.com.br/esportes" data-toggle="dropdown" class="dropdown-toggle disabled" aria-haspopup="true">Esportes <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-498285" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-498285 dropdown"><a title="Futebol" href="https://jovempan.com.br/esportes/futebol">Futebol</a>
+	<ul role="menu" class=" dropdown-menu">
+		<li id="menu-item-547222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-547222"><a title="Corinthians" href="https://jovempan.com.br/esportes/futebol/corinthians">Corinthians</a></li>
+		<li id="menu-item-547224" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-547224"><a title="Palmeiras" href="https://jovempan.com.br/esportes/futebol/palmeiras">Palmeiras</a></li>
+		<li id="menu-item-547226" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-547226"><a title="São Paulo" href="https://jovempan.com.br/esportes/futebol/sao-paulo-futebol">São Paulo</a></li>
+		<li id="menu-item-547228" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-547228"><a title="Santos" href="https://jovempan.com.br/esportes/futebol/santos">Santos</a></li>
+	</ul>
+</li>
+	<li id="menu-item-498287" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-498287"><a title="Mais Esportes" href="https://jovempan.com.br/esportes/outros-esportes">Mais Esportes</a></li>
+</ul>
+</li>
+<li id="menu-item-380544" class="entretenimento menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-380544 dropdown" data-headerlink="entretenimento" ><a title="Entretenimento" href="https://jovempan.com.br/entretenimento" data-toggle="dropdown" class="dropdown-toggle disabled" aria-haspopup="true">Entretenimento <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-498288" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-498288"><a title="Famosos" href="https://jovempan.com.br/entretenimento/famosos">Famosos</a></li>
+	<li id="menu-item-857065" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-857065"><a title="Mulheres da Pan" href="https://blog.jovempan.com.br/mulheresdapan/">Mulheres da Pan</a></li>
+	<li id="menu-item-498289" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-498289"><a title="Música" href="https://jovempan.com.br/entretenimento/musica">Música</a></li>
+	<li id="menu-item-722866" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-722866"><a title="Playlists" href="https://jovempan.com.br/playlist/hit-parade">Playlists</a></li>
+	<li id="menu-item-857067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-857067"><a title="Revista JP/Guia JP" href="https://blog.jovempan.com.br/guiaspjp/">Revista JP/Guia JP</a></li>
+	<li id="menu-item-498290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-498290"><a title="TV e Cinema" href="https://jovempan.com.br/entretenimento/tv-e-cinema">TV e Cinema</a></li>
+	<li id="menu-item-600981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-600981"><a title="Zona Gamer" href="https://jovempan.com.br/entretenimento/zona-gamer">Zona Gamer</a></li>
+</ul>
+</li>
+<li id="menu-item-846401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-846401" data-headerlink="negocios" ><a title="Negócios" href="https://jovempan.com.br/negocios">Negócios</a></li>
+<li id="menu-item-409800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-409800" data-headerlink="videos" ><a title="JP TV" href="https://jovempan.com.br/videos">JP TV</a></li>
+<li id="menu-item-380545" class="opiniao menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-380545 dropdown" data-headerlink="opiniao-jovem-pan" ><a title="Opinião" href="https://jovempan.com.br/opiniao-jovem-pan" data-toggle="dropdown" class="dropdown-toggle disabled" aria-haspopup="true">Opinião <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-380683" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380683"><a title="Augusto Nunes" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/augusto-nunes">Augusto Nunes</a></li>
+	<li id="menu-item-823004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-823004"><a title="Bruno Garschagen" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/bruno-garschagen">Bruno Garschagen</a></li>
+	<li id="menu-item-847217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-847217"><a title="Carlos Sambrana" href="https://jovempan.com.br/videos/opiniao-jovem-pan/comentaristas/carlos-sambrana">Carlos Sambrana</a></li>
+	<li id="menu-item-380686" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380686"><a title="Denise Campos de Toledo" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/denise-campos-de-toledo">Denise Campos de Toledo</a></li>
+	<li id="menu-item-425575" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-425575"><a title="Felipe Moura Brasil" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/felipe-moura-brasil">Felipe Moura Brasil</a></li>
+	<li id="menu-item-823005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-823005"><a title="Josias de Souza" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/josias-de-souza">Josias de Souza</a></li>
+	<li id="menu-item-733270" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-733270"><a title="Rodrigo Constantino" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/rodrigo-constantino">Rodrigo Constantino</a></li>
+	<li id="menu-item-841334" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-841334"><a title="Samy Dana" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/samy-dana">Samy Dana</a></li>
+	<li id="menu-item-380691" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-380691"><a title="Vera Magalhães" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/vera-magalhaes">Vera Magalhães</a></li>
+</ul>
+</li>
+<li id="menu-item-589067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-589067 dropdown"><a title="Programas" href="#" data-toggle="dropdown" class="dropdown-toggle disabled" aria-haspopup="true">Programas <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-651447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-651447"><a title="Jornal da Manhã" href="https://jovempan.com.br/videos/programas/jornal-da-manha">Jornal da Manhã</a></li>
+	<li id="menu-item-651446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-651446"><a title="Morning Show" href="https://jovempan.com.br/videos/programas/jovem-pan-morning-show">Morning Show</a></li>
+	<li id="menu-item-651445" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-651445"><a title="Camisa 10" href="https://jovempan.com.br/videos/programas/camisa-10">Camisa 10</a></li>
+	<li id="menu-item-651444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-651444"><a title="Pânico" href="https://jovempan.com.br/videos/programas/panico">Pânico</a></li>
+	<li id="menu-item-651443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-651443"><a title="Jornal Jovem Pan" href="https://jovempan.com.br/videos/programas/jornal-jovem-pan">Jornal Jovem Pan</a></li>
+	<li id="menu-item-651442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-651442"><a title="Esporte em Discussão" href="https://jovempan.com.br/videos/programas/esporte-em-discussao">Esporte em Discussão</a></li>
+	<li id="menu-item-651441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-651441"><a title="3 em 1" href="https://jovempan.com.br/videos/programas/3-em-1">3 em 1</a></li>
+	<li id="menu-item-624054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-624054"><a title="Os Pingos nos Is" href="https://jovempan.com.br/videos/programas/os-pingos-nos-is">Os Pingos nos Is</a></li>
+	<li id="menu-item-812153" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-812153"><a title="Pra Cima Deles" href="https://jovempan.com.br/videos/programas/pra-cima-deles">Pra Cima Deles</a></li>
+	<li id="menu-item-854842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-854842"><a title="O Anjo Investidor" href="https://jovempan.com.br/videos/programas/o-anjo-investidor">O Anjo Investidor</a></li>
+	<li id="menu-item-849872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-849872"><a title="Mulheres da Pan" href="https://jovempan.com.br/videos/programas/mulheresdapan">Mulheres da Pan</a></li>
+	<li id="menu-item-725967" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-725967"><a title="Perguntar Não Ofende" href="https://jovempan.com.br/programas/perguntar-nao-ofende">Perguntar Não Ofende</a></li>
+	<li id="menu-item-762980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-762980"><a title="Ringue da Pan" href="https://jovempan.com.br/videos/programas/ringue-da-pan">Ringue da Pan</a></li>
+	<li id="menu-item-739991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-739991"><a title="Saúde Mental" href="https://jovempan.com.br/videos/programas/saude-mental">Saúde Mental</a></li>
+	<li id="menu-item-804400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-804400"><a title="Stand Up JP" href="https://jovempan.com.br/videos/programas/stand-up-jp">Stand Up JP</a></li>
+	<li id="menu-item-841335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-841335"><a title="NY Treta" href="https://www.youtube.com/channel/UCf-bafFJ3xeYloBRR4z1RnQ">NY Treta</a></li>
+	<li id="menu-item-841336" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-841336"><a title="Pânico Retrô" href="https://www.youtube.com/channel/UC2IEgRZcIuemAPJqXa2nHvQ">Pânico Retrô</a></li>
+	<li id="menu-item-841337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-841337"><a title="Na Lata com Antonia Fontenelle" href="https://www.youtube.com/user/nalatacomantonia">Na Lata com Antonia Fontenelle</a></li>
+	<li id="menu-item-849869" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-849869"><a title="Organize sem Frescuras" href="https://www.youtube.com/user/rafitchaoliv">Organize sem Frescuras</a></li>
+</ul>
+</li>
+<li id="menu-item-771060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-771060" data-headerlink="podcasts" ><a title="Podcasts" href="https://jovempan.com.br/podcasts">Podcasts</a></li>
+<li id="menu-item-622979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-622979" data-headerlink="blogs" ><a title="Blogs" href="https://jovempan.com.br/blogs">Blogs</a></li>
+<li id="menu-item-740431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-740431 dropdown"><a title="Especiais" href="#" data-toggle="dropdown" class="dropdown-toggle disabled" aria-haspopup="true">Especiais <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-765683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-765683"><a title="Reforma da Previdência" target="_blank" href="https://jovempan.com.br/especial/reforma-da-previdencia">Reforma da Previdência</a></li>
+	<li id="menu-item-740432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-740432"><a title="Governo Bolsonaro" target="_blank" href="https://jovempan.com.br/especial/o-governo-bolsonaro">Governo Bolsonaro</a></li>
+	<li id="menu-item-740434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-740434"><a title="Eleições 2018" target="_blank" href="https://jovempan.com.br/eleicoes-2018">Eleições 2018</a></li>
+	<li id="menu-item-740435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-740435"><a title="Copa 2018" target="_blank" href="https://jovempan.com.br/esportes/copa-2018">Copa 2018</a></li>
+	<li id="menu-item-740436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-740436"><a title="Mitos e Fatos" target="_blank" href="https://blog.jovempan.com.br/mitosefatos">Mitos e Fatos</a></li>
+</ul>
+</li>
+</ul></div>			</div>
+		</nav>
+	</header>
+		<div id="page-dataLayer"
+		data-title="Jovem Pan | Esportes, entretenimento, notícias e vídeos com credibilidade"
+		data-pagetype="page"
+		data-pageclasses="home page-template-default page page-id-90714 gllr_jovempan.com.br pagename-home"
+		data-contentauthor="André Melo"
+					>
+	</div>
+	<main id="main-content">
+		<div class="bguol" id="bguol">
+			<div id="wrap">
+				<div id="main_content">
+<div class="container container-home">
+
+  <section id="jp-featured-posts-8" class="wp-block-jms-home-post-type-featured-posts-news section-box featured-posts featured-news featured-news-5"><div class="row"><div class="col-sm-4 col-xs-12 column-1"><div class="news news-big"><div class="info"><a href="https://jovempan.com.br/programas/jornal-da-manha/aprovacao-da-prisao-apos-2a-instancia-so-sai-se-houver-cobranca-da-populacao-diz-senadora.html" target="_self" rel="noopener noreferrer"><span class="category">EXCLUSIVO</span><h3 class="title">Senadora: Aprovação da prisão após 2ª instância só sai se houver cobrança </h3></a><div class="more-news"><ul></ul></div></div><a href="https://jovempan.com.br/programas/jornal-da-manha/aprovacao-da-prisao-apos-2a-instancia-so-sai-se-houver-cobranca-da-populacao-diz-senadora.html" target="_self" rel="noopener noreferrer"><img src="https://jpimg.com.br/uploads/2019/07/imagem_materia-1-3.jpg" class=""/></a></div></div><div class="col-sm-4 col-xs-12 column-2"><div class="news news-small"><div class="info"><a href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/vera-magalhaes/vera-toffoli-se-enrola-e-nao-consegue-esclarecer-voto-mas-uso-de-dados-deve-ser-limitado.html" target="_self" rel="noopener noreferrer"><span class="category">Análise</span><h3 class="title">Vera: Toffoli se enrola, mas uso de dados deve ser limitado</h3></a><div class="more-news"><ul><li><span class="glyphicon glyphicon-stop"></span><a href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/bruno-garschagen/bruno-garschagen-voto-de-toffoli-foi-longuissimo-e-incompreensivel.html" target="_self" rel="noopener noreferrer">Bruno: Voto de Toffoli foi incompreensível</a></li><li><span class="glyphicon glyphicon-stop"></span><a href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/augusto-nunes/augusto-nunes-stf-e-exemplo-do-que-juiz-nao-deve-fazer.html" target="_self" rel="noopener noreferrer">Augusto: STF é exemplo do que juiz não deve fazer</a></li><li><span class="glyphicon glyphicon-stop"></span><a href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/josias-de-souza/josias-de-souza-volta-da-prisao-em-2a-instancia-ainda-esta-longe-de-acontecer.html" target="_self" rel="noopener noreferrer">Josias: Volta da prisão em 2ª instância está longe </a></li></ul></div></div><a href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/vera-magalhaes/vera-toffoli-se-enrola-e-nao-consegue-esclarecer-voto-mas-uso-de-dados-deve-ser-limitado.html" target="_self" rel="noopener noreferrer"><img src="https://jpimg.com.br/uploads/2018/05/1116304-vac_abr20180412_0867_1.jpg" class=""/></a></div><div class="news news-small"><div class="info"><a href="https://jovempan.com.br/noticias/jovem-pan-defende-prisao-em-segunda-instancia.html" target="_self" rel="noopener noreferrer"><span class="category">Notícias</span><h3 class="title">Jovem Pan defende prisão em segunda instância</h3></a><div class="more-news"><ul></ul></div></div><a href="https://jovempan.com.br/noticias/jovem-pan-defende-prisao-em-segunda-instancia.html" target="_self" rel="noopener noreferrer"><img src="https://jpimg.com.br/uploads/2019/07/microfone-jovem-pan.jpg" class=""/></a></div></div><div class="col-sm-4 col-xs-12 column-3"><div class="news-carousel news-big"><div id="carousel-8" class="jms-posts-featured-carousel"><div class="item"><div class="news news-big"><div class="info"><a href="https://jovempan.com.br/especial/premio-cabore" target="_self" rel="noopener noreferrer"><span class="category">Especial</span><h3 class="title">Por que a Jovem Pan merece ganhar o prêmio Caboré 2019</h3></a></div><a href="https://jovempan.com.br/especial/premio-cabore" target="_self" rel="noopener noreferrer"><img src="https://jpimg.com.br/uploads/2019/03/cabore-3.png" class=""/></a></div></div><div class="item"><div class="news news-big"><div class="info"><a href="https://jovempan.com.br/noticias/brasil/forum-da-longevidade-edicao-abordou-a-importancia-do-aprendizado.html" target="_self" rel="noopener noreferrer"><span class="category">Conteúdo Patrocinado</span><h3 class="title">Fórum da Longevidade: edição abordou a importância do aprendizado</h3></a></div><a href="https://jovempan.com.br/noticias/brasil/forum-da-longevidade-edicao-abordou-a-importancia-do-aprendizado.html" target="_self" rel="noopener noreferrer"><img src="https://jpimg.com.br/uploads/2019/11/forum-da-longevidade-.jpg" class=""/></a></div></div><div class="item"><div class="news news-big"><div class="info"><a href="https://jovempan.com.br/noticias/economia/reserva-de-emergencia-saiba-como-ter-a-sua-para-nunca-mais-passar-sufoco.html" target="_self" rel="noopener noreferrer"><span class="category">Conteúdo Patrocinado</span><h3 class="title">Reserva de emergência: saiba como ter a sua para nunca mais passar sufoco</h3></a></div><a href="https://jovempan.com.br/noticias/economia/reserva-de-emergencia-saiba-como-ter-a-sua-para-nunca-mais-passar-sufoco.html" target="_self" rel="noopener noreferrer"><img src="https://jpimg.com.br/uploads/2019/11/nm-post-ig-viradafinanceira-01-27-12-18-cs.png" class=""/></a></div></div><div class="item"><div class="news news-big"><div class="info"><a href="https://jovempan.com.br/noticias/brasil/descentralizacao-de-studios-aponta-o-futuro-do-mercado-imobiliario.html" target="_self" rel="noopener noreferrer"><span class="category">Conteúdo Patrocinado</span><h3 class="title">Descentralização de studios aponta o futuro do mercado imobiliário</h3></a></div><a href="https://jovempan.com.br/noticias/brasil/descentralizacao-de-studios-aponta-o-futuro-do-mercado-imobiliario.html" target="_self" rel="noopener noreferrer"><img src="https://jpimg.com.br/uploads/2017/04/2441617338-predios-em-sao-paulo-mercado-imobiliario-construcao-civil-apartamentos-cidade-de-sao-paulo-vista-pan.jpg" class=""/></a></div></div></div></div></div></div></section>
+
+
+
+<section id="jp-featured-posts-96" class="wp-block-jms-home-post-type-featured-posts-news section-box featured-posts featured-news featured-news-4"><div class="row"><div class="col-sm-6 col-xs-12 column-1"><div class="news news-big"><div class="info"><a href="https://neofeed.com.br/blog/home/gerdau-vedacit-e-tigre-poem-a-mao-na-massa-para-resolver-os-problemas-de-habitacao/" target="_blank" rel="noopener noreferrer"><span class="category">NeoFeed</span><h3 class="title">Gerdau, Vedacit e Tigre põem a mão na massa para resolver os problemas de habitação</h3></a><div class="more-news"><ul><li><span class="glyphicon glyphicon-stop"></span><a href="https://neofeed.com.br/blog/home/cannabis-como-a-burocracia-impede-o-surgimento-de-um-mercado-bilionario-no-brasil/" target="_blank" rel="noopener noreferrer">Cannabis: como a burocracia impede mercado bilionário no Brasil</a></li></ul></div></div><a href="https://neofeed.com.br/blog/home/gerdau-vedacit-e-tigre-poem-a-mao-na-massa-para-resolver-os-problemas-de-habitacao/" target="_blank" rel="noopener noreferrer"><img src="https://jpimg.com.br/uploads/2019/03/ecolar.jpg" class=""/></a></div></div><div class="col-sm-3 col-xs-12 column-2"><div class="news news-small"><div class="info"><a href="https://jovempan.com.br/noticias/brasil/ex-governador-de-mg-fernando-pimentel-e-condenado-a-10-anos-de-prisao.html" target="_self" rel="noopener noreferrer"><span class="category">Ex-governador de MG</span><h3 class="title">Fernando Pimentel é condenado a 10 anos de prisão</h3></a><div class="more-news"><ul></ul></div></div><a href="https://jovempan.com.br/noticias/brasil/ex-governador-de-mg-fernando-pimentel-e-condenado-a-10-anos-de-prisao.html" target="_self" rel="noopener noreferrer"><img src="https://jpimg.com.br/uploads/2018/05/1100229-fcpzzb_abr_05122017_6414_1.jpg" class=""/></a></div><div class="news news-small"><div class="info"><a href="https://blog.jovempan.com.br/blogdofefito/2019/11/21/josiane-deve-voltar-a-ser-ma-e-matar-regis-no-final-de-a-dona-do-pedaco/" target="_blank" rel="noopener noreferrer"><span class="category">Blog do Fefito</span><h3 class="title">Josiane deve voltar a ser má no final de ‘A Dona do Pedaço’</h3></a><div class="more-news"><ul></ul></div></div><a href="https://blog.jovempan.com.br/blogdofefito/2019/11/21/josiane-deve-voltar-a-ser-ma-e-matar-regis-no-final-de-a-dona-do-pedaco/" target="_blank" rel="noopener noreferrer"><img src="https://jpimg.com.br/uploads/2019/11/josiane-novela.jpg" class=""/></a></div></div><div class="col-sm-3 col-xs-12 column-3"><div class="news news-small"><div class="info"><a href="https://jovempan.com.br/esportes/futebol/galvao-bueno-sente-mal-estar-passa-por-cateterismo-e-nao-narrara-final-da-liberta.html" target="_self" rel="noopener noreferrer"><span class="category">Libertadores</span><h3 class="title">Galvão Bueno passa por cateterismo e não narrará final </h3></a><div class="more-news"><ul></ul></div></div><a href="https://jovempan.com.br/esportes/futebol/galvao-bueno-sente-mal-estar-passa-por-cateterismo-e-nao-narrara-final-da-liberta.html" target="_self" rel="noopener noreferrer"><img src="https://jpimg.com.br/uploads/2017/04/3733245431-galvao-bueno-se-emociona-ao-falar-sobre-chapecoense-reproducao.jpg" class=""/></a></div><div class="news news-small"><div class="info"><a href="https://jovempan.com.br/programas/panico/luisa-mell-venda-animais.html" target="_self" rel="noopener noreferrer"><span class="category">Pânico</span><h3 class="title">Luisa Mell e veterinário criticam compra e venda de animais</h3></a><div class="more-news"><ul></ul></div></div><a href="https://jovempan.com.br/programas/panico/luisa-mell-venda-animais.html" target="_self" rel="noopener noreferrer"><img src="https://jpimg.com.br/uploads/2019/11/luisa-mell-e-dan-wroblewski-panico-91.jpg" class=""/></a></div></div></div></section>
+
+
+
+<div class="wp-block-jms-home-blocks-columns"><div class="row">
+<div class="wp-block-jms-home-blocks-column col-md-8 col-sm-7 col-xs-12">  <!-- Mais Lidos -->
+    <section id="7" class="section-box posts-tabs">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="header-popular-posts">
+          <div class="header">
+            <h2 class="title">
+              News            </h2>
+            <nav>
+              <ul class='menu-tab' role='tablist'>
+                <li class=' active' role='presentation'><a href='#tab0' aria-controls='tab0' role='tab' data-toggle='tab'>Últimas</a></li><li class='' role='presentation'><a href='#tab1' aria-controls='tab1' role='tab' data-toggle='tab'>Brasil</a></li><li class='' role='presentation'><a href='#tab2' aria-controls='tab2' role='tab' data-toggle='tab'>Mundo</a></li><li class='' role='presentation'><a href='#tab3' aria-controls='tab3' role='tab' data-toggle='tab'>Economia</a></li>              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <div className='tab-content'>
+          <div id='tab0' class='tab-pane active' role='tabpanel'>  <div class='content content-news'>
+    <div class='row'>
+      <div class='col-sm-6 col-xs-12'>
+        <!-- Loop --> 
+        	
+          <div class='featured-news'>
+            <a class='image' href='https://jovempan.com.br/noticias/brasil/mae-e-padrasto-sao-suspeitos-da-morte-da-menina-micaelly-policia-investiga.html' target='_self' >
+              <!-- Category Highlight -->
+                              <span class='category'>
+                  Polícia investiga                </span>
+                   
+              <!-- End Category Highlight  -->
+              <!-- Post thumbnail -->
+              <img src="https://jpimg.com.br/uploads/2019/11/menina-micaelly.jpg" >  
+              <!-- End Post thumbnail -->
+            </a>
+            <a class='title' href='https://jovempan.com.br/noticias/brasil/mae-e-padrasto-sao-suspeitos-da-morte-da-menina-micaelly-policia-investiga.html' target='_self'>
+              Mãe e padrasto são suspeitos da morte da menina Micaelly            </a>
+          </div>	
+                  	
+          <div class='featured-news'>
+            <a class='image' href='https://jovempan.com.br/noticias/brasil/partido-de-bolsonaro-defende-deus-armas-e-oposicao-ao-comunismo.html' target='_self' >
+              <!-- Category Highlight -->
+                              <span class='category'>
+                  Brasil                </span>
+                   
+              <!-- End Category Highlight  -->
+              <!-- Post thumbnail -->
+              <img src="https://jpimg.com.br/uploads/2019/11/tn220191121008.jpg" >  
+              <!-- End Post thumbnail -->
+            </a>
+            <a class='title' href='https://jovempan.com.br/noticias/brasil/partido-de-bolsonaro-defende-deus-armas-e-oposicao-ao-comunismo.html' target='_self'>
+              Partido de Bolsonaro defende Deus, armas e oposição ao comunismo            </a>
+          </div>	
+                   
+      </div>
+      <div class='col-sm-6 col-xs-12'>
+        <!-- Loop --> 
+        	
+          <div class='news-small'>
+            <a class='image' href='https://jovempan.com.br/noticias/brasil/relatorio-cpi-do-bndes-chega-procurador-augusto-aras.html' target='_self'>
+              <!-- Post thumbnail -->
+              <img src="https://jpimg.com.br/uploads/2019/11/capturar-11.jpg" >  
+              <!-- End Post thumbnail -->
+            </a>
+            <div class='link'>
+              <a class='title' href='https://jovempan.com.br/noticias/brasil/relatorio-cpi-do-bndes-chega-procurador-augusto-aras.html' target='_self' >
+                Relatório da CPI do BNDES chega às mãos de Aras              </a>
+            </div>
+          </div>		
+        	
+          <div class='news-small'>
+            <a class='image' href='https://jovempan.com.br/noticias/brasil/stf-rejeita-arquivamento-corrupcao-ex-ministro-negromonte.html' target='_self'>
+              <!-- Post thumbnail -->
+              <img src="https://jpimg.com.br/uploads/2017/04/4273648540-ex-ministro-das-cidades-mario-negromonte.jpg" >  
+              <!-- End Post thumbnail -->
+            </a>
+            <div class='link'>
+              <a class='title' href='https://jovempan.com.br/noticias/brasil/stf-rejeita-arquivamento-corrupcao-ex-ministro-negromonte.html' target='_self' >
+                STF rejeita arquivamento de ação por corrupção contra ex-ministro               </a>
+            </div>
+          </div>		
+        	
+          <div class='news-small'>
+            <a class='image' href='https://jovempan.com.br/noticias/brasil/chega-a-695-numero-de-localidades-afetadas-por-oleo-no-nordeste-e-es.html' target='_self'>
+              <!-- Post thumbnail -->
+              <img src="https://jpimg.com.br/uploads/2019/03/405730cad416fa6cfdab3248e3946f03af659f9f.jpg" >  
+              <!-- End Post thumbnail -->
+            </a>
+            <div class='link'>
+              <a class='title' href='https://jovempan.com.br/noticias/brasil/chega-a-695-numero-de-localidades-afetadas-por-oleo-no-nordeste-e-es.html' target='_self' >
+                Chega a 695 número de localidades afetadas por óleo no Nordeste e ES              </a>
+            </div>
+          </div>		
+        	
+          <div class='news-small'>
+            <a class='image' href='https://jovempan.com.br/noticias/brasil/corpo-de-mulher-e-encontrado-no-rio-pinheiros-na-zona-oeste-de-sao-paulo.html' target='_self'>
+              <!-- Post thumbnail -->
+              <img src="https://jpimg.com.br/uploads/2019/03/AGE20190226116.jpg" >  
+              <!-- End Post thumbnail -->
+            </a>
+            <div class='link'>
+              <a class='title' href='https://jovempan.com.br/noticias/brasil/corpo-de-mulher-e-encontrado-no-rio-pinheiros-na-zona-oeste-de-sao-paulo.html' target='_self' >
+                Corpo de mulher é encontrado no Rio Pinheiros, em São Paulo              </a>
+            </div>
+          </div>		
+        	
+          <div class='news-small'>
+            <a class='image' href='https://jovempan.com.br/noticias/mundo/greve-geral-na-colombia-marca-desaprovacao-ao-governo-de-duque.html' target='_self'>
+              <!-- Post thumbnail -->
+              <img src="https://jpimg.com.br/uploads/2019/11/cbcd8a49c423bb86ffec7a73dc0a7fa236ee22b6w.jpg" >  
+              <!-- End Post thumbnail -->
+            </a>
+            <div class='link'>
+              <a class='title' href='https://jovempan.com.br/noticias/mundo/greve-geral-na-colombia-marca-desaprovacao-ao-governo-de-duque.html' target='_self' >
+                Greve geral na Colômbia marca desaprovação ao governo de Duque              </a>
+            </div>
+          </div>		
+        	
+          <div class='news-small'>
+            <a class='image' href='https://jovempan.com.br/noticias/mundo/anistia-internacional-pede-fim-da-repressao-em-manifestacoes-no-chile.html' target='_self'>
+              <!-- Post thumbnail -->
+              <img src="https://jpimg.com.br/uploads/2019/11/a4e574cdd2ccc8e76336fedfa2ea1a4ea3b75697w.jpg" >  
+              <!-- End Post thumbnail -->
+            </a>
+            <div class='link'>
+              <a class='title' href='https://jovempan.com.br/noticias/mundo/anistia-internacional-pede-fim-da-repressao-em-manifestacoes-no-chile.html' target='_self' >
+                Anistia Internacional pede fim da repressão em manifestações no Chile              </a>
+            </div>
+          </div>		
+         
+      </div>
+    </div>
+  </div>
+  </div><div id='tab1' class='tab-pane ' role='tabpanel'>  <div class='content content-news'>
+    <div class='row'>
+      <div class='col-sm-6 col-xs-12'>
+          <!-- Loop --> 
+                    <div class='featured-news'>
+            <a class='image' href='https://jovempan.com.br/noticias/brasil/stf-rejeita-arquivamento-corrupcao-ex-ministro-negromonte.html' target='_self'  >
+              <!-- Category Highlight -->
+                              <span class='category'>
+                  Brasil                </span>
+                   
+              <!-- End Category Highlight  -->
+              <!-- Post thumbnail -->
+                                <img width="2662" height="1772" src="https://jpimg.com.br/uploads/2017/04/4273648540-ex-ministro-das-cidades-mario-negromonte.jpg" class="attachment-full size-full wp-post-image" alt="Antonio Cruz/Agência Brasil" srcset="https://jpimg.com.br/uploads/2017/04/4273648540-ex-ministro-das-cidades-mario-negromonte.jpg 2662w, https://jpimg.com.br/uploads/2017/04/4273648540-ex-ministro-das-cidades-mario-negromonte-300x200.jpg 300w, https://jpimg.com.br/uploads/2017/04/4273648540-ex-ministro-das-cidades-mario-negromonte-768x511.jpg 768w, https://jpimg.com.br/uploads/2017/04/4273648540-ex-ministro-das-cidades-mario-negromonte-1024x682.jpg 1024w" sizes="(max-width: 2662px) 100vw, 2662px" loading="lazy" />           
+                            <!-- End Post thumbnail -->
+            </a>
+            <a class='title' href='https://jovempan.com.br/noticias/brasil/stf-rejeita-arquivamento-corrupcao-ex-ministro-negromonte.html' target='_self'  >
+              STF rejeita arquivamento de ação por corrupção contra ex-ministro Negromonte            </a>
+          </div>		
+                  <div class='featured-news'>
+            <a class='image' href='https://jovempan.com.br/noticias/brasil/mae-e-padrasto-sao-suspeitos-da-morte-da-menina-micaelly-policia-investiga.html' target='_self'  >
+              <!-- Category Highlight -->
+                              <span class='category'>
+                  Brasil                </span>
+                   
+              <!-- End Category Highlight  -->
+              <!-- Post thumbnail -->
+                                <img width="680" height="453" src="https://jpimg.com.br/uploads/2019/11/menina-micaelly.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/11/menina-micaelly.jpg 680w, https://jpimg.com.br/uploads/2019/11/menina-micaelly-648x432.jpg 648w, https://jpimg.com.br/uploads/2019/11/menina-micaelly-506x337.jpg 506w" sizes="(max-width: 680px) 100vw, 680px" loading="lazy" />           
+                            <!-- End Post thumbnail -->
+            </a>
+            <a class='title' href='https://jovempan.com.br/noticias/brasil/mae-e-padrasto-sao-suspeitos-da-morte-da-menina-micaelly-policia-investiga.html' target='_self'  >
+              Mãe e padrasto são suspeitos da morte da menina Micaelly; polícia investiga            </a>
+          </div>		
+         
+      </div>
+      <div class='col-sm-6 col-xs-12'>
+        <!-- Loop --> 
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/brasil/relatorio-cpi-do-bndes-chega-procurador-augusto-aras.html' target='_self'  >
+                <img width="984" height="643" src="https://jpimg.com.br/uploads/2019/11/capturar-11.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/11/capturar-11.jpg 984w, https://jpimg.com.br/uploads/2019/11/capturar-11-750x490.jpg 750w, https://jpimg.com.br/uploads/2019/11/capturar-11-768x502.jpg 768w, https://jpimg.com.br/uploads/2019/11/capturar-11-661x432.jpg 661w, https://jpimg.com.br/uploads/2019/11/capturar-11-881x576.jpg 881w, https://jpimg.com.br/uploads/2019/11/capturar-11-516x337.jpg 516w" sizes="(max-width: 984px) 100vw, 984px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/brasil/relatorio-cpi-do-bndes-chega-procurador-augusto-aras.html' target='_self'  >
+              Relatório da CPI do BNDES chega às mãos do procurador Augusto Aras            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/brasil/bolsonaro-diz-querer-que-novo-partido-reze-nossa-cartilha.html' target='_self'  >
+                <img width="1400" height="933" src="https://jpimg.com.br/uploads/2019/11/jair-bolsonaro.jpg" class="attachment-full size-full wp-post-image" alt="Jair Bolsonaro" srcset="https://jpimg.com.br/uploads/2019/11/jair-bolsonaro.jpg 1400w, https://jpimg.com.br/uploads/2019/11/jair-bolsonaro-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/11/jair-bolsonaro-768x512.jpg 768w, https://jpimg.com.br/uploads/2019/11/jair-bolsonaro-1024x682.jpg 1024w, https://jpimg.com.br/uploads/2019/11/jair-bolsonaro-1080x720.jpg 1080w, https://jpimg.com.br/uploads/2019/11/jair-bolsonaro-648x432.jpg 648w, https://jpimg.com.br/uploads/2019/11/jair-bolsonaro-864x576.jpg 864w, https://jpimg.com.br/uploads/2019/11/jair-bolsonaro-506x337.jpg 506w" sizes="(max-width: 1400px) 100vw, 1400px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/brasil/bolsonaro-diz-querer-que-novo-partido-reze-nossa-cartilha.html' target='_self'  >
+              Bolsonaro diz querer que novo partido &#8216;reze nossa cartilha&#8217;            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/brasil/partido-de-bolsonaro-defende-deus-armas-e-oposicao-ao-comunismo.html' target='_self'  >
+                <img width="1400" height="933" src="https://jpimg.com.br/uploads/2019/11/tn220191121008.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/11/tn220191121008.jpg 1400w, https://jpimg.com.br/uploads/2019/11/tn220191121008-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/11/tn220191121008-768x512.jpg 768w, https://jpimg.com.br/uploads/2019/11/tn220191121008-1024x682.jpg 1024w, https://jpimg.com.br/uploads/2019/11/tn220191121008-1080x720.jpg 1080w, https://jpimg.com.br/uploads/2019/11/tn220191121008-648x432.jpg 648w, https://jpimg.com.br/uploads/2019/11/tn220191121008-864x576.jpg 864w, https://jpimg.com.br/uploads/2019/11/tn220191121008-506x337.jpg 506w" sizes="(max-width: 1400px) 100vw, 1400px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/brasil/partido-de-bolsonaro-defende-deus-armas-e-oposicao-ao-comunismo.html' target='_self'  >
+              Partido de Bolsonaro defende Deus, armas e oposição ao comunismo            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/brasil/chega-a-695-numero-de-localidades-afetadas-por-oleo-no-nordeste-e-es.html' target='_self'  >
+                <img width="1080" height="719" src="https://jpimg.com.br/uploads/2019/03/405730cad416fa6cfdab3248e3946f03af659f9f.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/03/405730cad416fa6cfdab3248e3946f03af659f9f.jpg 1080w, https://jpimg.com.br/uploads/2019/03/405730cad416fa6cfdab3248e3946f03af659f9f-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/03/405730cad416fa6cfdab3248e3946f03af659f9f-768x511.jpg 768w, https://jpimg.com.br/uploads/2019/03/405730cad416fa6cfdab3248e3946f03af659f9f-1024x682.jpg 1024w, https://jpimg.com.br/uploads/2019/03/405730cad416fa6cfdab3248e3946f03af659f9f-649x432.jpg 649w, https://jpimg.com.br/uploads/2019/03/405730cad416fa6cfdab3248e3946f03af659f9f-865x576.jpg 865w, https://jpimg.com.br/uploads/2019/03/405730cad416fa6cfdab3248e3946f03af659f9f-506x337.jpg 506w" sizes="(max-width: 1080px) 100vw, 1080px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/brasil/chega-a-695-numero-de-localidades-afetadas-por-oleo-no-nordeste-e-es.html' target='_self'  >
+              Chega a 695 número de localidades afetadas por óleo no Nordeste e ES            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/brasil/corpo-de-mulher-e-encontrado-no-rio-pinheiros-na-zona-oeste-de-sao-paulo.html' target='_self'  >
+                <img width="1400" height="933" src="https://jpimg.com.br/uploads/2019/03/AGE20190226116.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/03/AGE20190226116.jpg 1400w, https://jpimg.com.br/uploads/2019/03/AGE20190226116-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/03/AGE20190226116-768x512.jpg 768w, https://jpimg.com.br/uploads/2019/03/AGE20190226116-1024x682.jpg 1024w, https://jpimg.com.br/uploads/2019/03/AGE20190226116-1080x720.jpg 1080w, https://jpimg.com.br/uploads/2019/03/AGE20190226116-648x432.jpg 648w, https://jpimg.com.br/uploads/2019/03/AGE20190226116-864x576.jpg 864w, https://jpimg.com.br/uploads/2019/03/AGE20190226116-506x337.jpg 506w" sizes="(max-width: 1400px) 100vw, 1400px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/brasil/corpo-de-mulher-e-encontrado-no-rio-pinheiros-na-zona-oeste-de-sao-paulo.html' target='_self'  >
+              Corpo de mulher é encontrado no Rio Pinheiros, na Zona Oeste de São Paulo            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/brasil/bolsonaro-sem-assinatura-eletronica-alianca-pelo-brasil-ficara-fora-das-eleicoes-2020.html' target='_self'  >
+                <img width="1140" height="760" src="https://jpimg.com.br/uploads/2019/03/jair-bolsonaro-1.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/03/jair-bolsonaro-1.jpg 1140w, https://jpimg.com.br/uploads/2019/03/jair-bolsonaro-1-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/03/jair-bolsonaro-1-768x512.jpg 768w, https://jpimg.com.br/uploads/2019/03/jair-bolsonaro-1-1024x683.jpg 1024w, https://jpimg.com.br/uploads/2019/03/jair-bolsonaro-1-1080x720.jpg 1080w, https://jpimg.com.br/uploads/2019/03/jair-bolsonaro-1-648x432.jpg 648w, https://jpimg.com.br/uploads/2019/03/jair-bolsonaro-1-864x576.jpg 864w, https://jpimg.com.br/uploads/2019/03/jair-bolsonaro-1-506x337.jpg 506w" sizes="(max-width: 1140px) 100vw, 1140px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/brasil/bolsonaro-sem-assinatura-eletronica-alianca-pelo-brasil-ficara-fora-das-eleicoes-2020.html' target='_self'  >
+              Bolsonaro: Sem assinatura eletrônica, Aliança Pelo Brasil ficará fora das eleições 2020            </a>
+          </div>
+        </div>
+         
+      </div>
+    </div>
+  </div>
+  </div><div id='tab2' class='tab-pane ' role='tabpanel'>  <div class='content content-news'>
+    <div class='row'>
+      <div class='col-sm-6 col-xs-12'>
+          <!-- Loop --> 
+                    <div class='featured-news'>
+            <a class='image' href='https://jovempan.com.br/noticias/mundo/greve-geral-na-colombia-marca-desaprovacao-ao-governo-de-duque.html' target='_self'  >
+              <!-- Category Highlight -->
+                              <span class='category'>
+                  Mundo                </span>
+                   
+              <!-- End Category Highlight  -->
+              <!-- Post thumbnail -->
+                                <img width="900" height="599" src="https://jpimg.com.br/uploads/2019/11/cbcd8a49c423bb86ffec7a73dc0a7fa236ee22b6w.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/11/cbcd8a49c423bb86ffec7a73dc0a7fa236ee22b6w.jpg 900w, https://jpimg.com.br/uploads/2019/11/cbcd8a49c423bb86ffec7a73dc0a7fa236ee22b6w-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/11/cbcd8a49c423bb86ffec7a73dc0a7fa236ee22b6w-768x511.jpg 768w, https://jpimg.com.br/uploads/2019/11/cbcd8a49c423bb86ffec7a73dc0a7fa236ee22b6w-649x432.jpg 649w, https://jpimg.com.br/uploads/2019/11/cbcd8a49c423bb86ffec7a73dc0a7fa236ee22b6w-865x576.jpg 865w, https://jpimg.com.br/uploads/2019/11/cbcd8a49c423bb86ffec7a73dc0a7fa236ee22b6w-506x337.jpg 506w" sizes="(max-width: 900px) 100vw, 900px" loading="lazy" />           
+                            <!-- End Post thumbnail -->
+            </a>
+            <a class='title' href='https://jovempan.com.br/noticias/mundo/greve-geral-na-colombia-marca-desaprovacao-ao-governo-de-duque.html' target='_self'  >
+              Greve geral na Colômbia marca desaprovação ao governo de Duque            </a>
+          </div>		
+                  <div class='featured-news'>
+            <a class='image' href='https://jovempan.com.br/noticias/mundo/anistia-internacional-pede-fim-da-repressao-em-manifestacoes-no-chile.html' target='_self'  >
+              <!-- Category Highlight -->
+                              <span class='category'>
+                  Mundo                </span>
+                   
+              <!-- End Category Highlight  -->
+              <!-- Post thumbnail -->
+                                <img width="899" height="600" src="https://jpimg.com.br/uploads/2019/11/a4e574cdd2ccc8e76336fedfa2ea1a4ea3b75697w.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/11/a4e574cdd2ccc8e76336fedfa2ea1a4ea3b75697w.jpg 899w, https://jpimg.com.br/uploads/2019/11/a4e574cdd2ccc8e76336fedfa2ea1a4ea3b75697w-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/11/a4e574cdd2ccc8e76336fedfa2ea1a4ea3b75697w-768x513.jpg 768w, https://jpimg.com.br/uploads/2019/11/a4e574cdd2ccc8e76336fedfa2ea1a4ea3b75697w-647x432.jpg 647w, https://jpimg.com.br/uploads/2019/11/a4e574cdd2ccc8e76336fedfa2ea1a4ea3b75697w-863x576.jpg 863w, https://jpimg.com.br/uploads/2019/11/a4e574cdd2ccc8e76336fedfa2ea1a4ea3b75697w-505x337.jpg 505w" sizes="(max-width: 899px) 100vw, 899px" loading="lazy" />           
+                            <!-- End Post thumbnail -->
+            </a>
+            <a class='title' href='https://jovempan.com.br/noticias/mundo/anistia-internacional-pede-fim-da-repressao-em-manifestacoes-no-chile.html' target='_self'  >
+              Anistia Internacional pede fim da repressão em manifestações no Chile            </a>
+          </div>		
+         
+      </div>
+      <div class='col-sm-6 col-xs-12'>
+        <!-- Loop --> 
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/programas/jornal-da-manha/apos-novas-polemicas-principe-andrew-se-retira-de-obrigacoes-reais-por-tempo-indeterminado.html' target='_self'  >
+                <img width="900" height="598" src="https://jpimg.com.br/uploads/2019/11/dd2db12db00821702ffc9f6c1be564b30cf10fc8w.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/11/dd2db12db00821702ffc9f6c1be564b30cf10fc8w.jpg 900w, https://jpimg.com.br/uploads/2019/11/dd2db12db00821702ffc9f6c1be564b30cf10fc8w-750x498.jpg 750w, https://jpimg.com.br/uploads/2019/11/dd2db12db00821702ffc9f6c1be564b30cf10fc8w-768x510.jpg 768w, https://jpimg.com.br/uploads/2019/11/dd2db12db00821702ffc9f6c1be564b30cf10fc8w-650x432.jpg 650w, https://jpimg.com.br/uploads/2019/11/dd2db12db00821702ffc9f6c1be564b30cf10fc8w-867x576.jpg 867w, https://jpimg.com.br/uploads/2019/11/dd2db12db00821702ffc9f6c1be564b30cf10fc8w-507x337.jpg 507w" sizes="(max-width: 900px) 100vw, 900px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/programas/jornal-da-manha/apos-novas-polemicas-principe-andrew-se-retira-de-obrigacoes-reais-por-tempo-indeterminado.html' target='_self'  >
+              Após novas polêmicas, príncipe Andrew se retira de obrigações reais por tempo indeterminado            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/programas/jornal-da-manha/pinera-diz-que-acusacao-constitucional-nao-tem-fundamento-e-eleva-tensao-no-chile.html' target='_self'  >
+                <img width="600" height="400" src="https://jpimg.com.br/uploads/2019/10/9fbd2093117c01b92d841e4abd382558f7d6b446m.jpg" class="attachment-full size-full wp-post-image" alt="Sebastian Pinera" srcset="https://jpimg.com.br/uploads/2019/10/9fbd2093117c01b92d841e4abd382558f7d6b446m.jpg 600w, https://jpimg.com.br/uploads/2019/10/9fbd2093117c01b92d841e4abd382558f7d6b446m-506x337.jpg 506w" sizes="(max-width: 600px) 100vw, 600px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/programas/jornal-da-manha/pinera-diz-que-acusacao-constitucional-nao-tem-fundamento-e-eleva-tensao-no-chile.html' target='_self'  >
+              Piñera diz que acusação constitucional &#8216;não tem fundamento&#8217; e eleva tensão no Chile            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/programas/jornal-da-manha/fernandez-faz-aceno-positivo-ao-fmi-sobre-divida-argentina.html' target='_self'  >
+                <img width="900" height="600" src="https://jpimg.com.br/uploads/2019/10/alberto-fernandez.jpg" class="attachment-full size-full wp-post-image" alt="Alberto Fernández Argentina" srcset="https://jpimg.com.br/uploads/2019/10/alberto-fernandez.jpg 900w, https://jpimg.com.br/uploads/2019/10/alberto-fernandez-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/10/alberto-fernandez-768x512.jpg 768w, https://jpimg.com.br/uploads/2019/10/alberto-fernandez-648x432.jpg 648w, https://jpimg.com.br/uploads/2019/10/alberto-fernandez-864x576.jpg 864w, https://jpimg.com.br/uploads/2019/10/alberto-fernandez-506x337.jpg 506w" sizes="(max-width: 900px) 100vw, 900px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/programas/jornal-da-manha/fernandez-faz-aceno-positivo-ao-fmi-sobre-divida-argentina.html' target='_self'  >
+              Fernandéz faz aceno positivo ao FMI sobre dívida argentina            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/programas/jornal-da-manha/mais-de-pessoas-ja-morreram-em-confrontos-na-bolivia-morales-fala-em-genocidio-indigena.html' target='_self'  >
+                <img width="900" height="600" src="https://jpimg.com.br/uploads/2019/11/0cb5ecf0ac1434fcb480d2e3c0301663759a06cew.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/11/0cb5ecf0ac1434fcb480d2e3c0301663759a06cew.jpg 900w, https://jpimg.com.br/uploads/2019/11/0cb5ecf0ac1434fcb480d2e3c0301663759a06cew-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/11/0cb5ecf0ac1434fcb480d2e3c0301663759a06cew-768x512.jpg 768w, https://jpimg.com.br/uploads/2019/11/0cb5ecf0ac1434fcb480d2e3c0301663759a06cew-648x432.jpg 648w, https://jpimg.com.br/uploads/2019/11/0cb5ecf0ac1434fcb480d2e3c0301663759a06cew-864x576.jpg 864w, https://jpimg.com.br/uploads/2019/11/0cb5ecf0ac1434fcb480d2e3c0301663759a06cew-506x337.jpg 506w" sizes="(max-width: 900px) 100vw, 900px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/programas/jornal-da-manha/mais-de-pessoas-ja-morreram-em-confrontos-na-bolivia-morales-fala-em-genocidio-indigena.html' target='_self'  >
+              Mais de 30 pessoas morreram em confrontos na Bolívia; Morales fala em genocídio indígena            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/mundo/pessoas-acusadas-de-terrorismo-muro-na-bolivia.html' target='_self'  >
+                <img width="900" height="600" src="https://jpimg.com.br/uploads/2019/11/b81e856b4aebe754ef33e2cac590d3f1a6af705bw.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/11/b81e856b4aebe754ef33e2cac590d3f1a6af705bw.jpg 900w, https://jpimg.com.br/uploads/2019/11/b81e856b4aebe754ef33e2cac590d3f1a6af705bw-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/11/b81e856b4aebe754ef33e2cac590d3f1a6af705bw-768x512.jpg 768w, https://jpimg.com.br/uploads/2019/11/b81e856b4aebe754ef33e2cac590d3f1a6af705bw-648x432.jpg 648w, https://jpimg.com.br/uploads/2019/11/b81e856b4aebe754ef33e2cac590d3f1a6af705bw-864x576.jpg 864w, https://jpimg.com.br/uploads/2019/11/b81e856b4aebe754ef33e2cac590d3f1a6af705bw-506x337.jpg 506w" sizes="(max-width: 900px) 100vw, 900px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/mundo/pessoas-acusadas-de-terrorismo-muro-na-bolivia.html' target='_self'  >
+              Sete pessoas são acusadas de terrorismo por derrubar muro de refinaria na Bolívia            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/mundo/sem-acordo-gantz-desiste-formar-governo-israel.html' target='_self'  >
+                <img width="900" height="600" src="https://jpimg.com.br/uploads/2019/10/a4243b1a7d1f5ce3f58717dcd39f43284d49899bw.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/10/a4243b1a7d1f5ce3f58717dcd39f43284d49899bw.jpg 900w, https://jpimg.com.br/uploads/2019/10/a4243b1a7d1f5ce3f58717dcd39f43284d49899bw-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/10/a4243b1a7d1f5ce3f58717dcd39f43284d49899bw-768x512.jpg 768w, https://jpimg.com.br/uploads/2019/10/a4243b1a7d1f5ce3f58717dcd39f43284d49899bw-648x432.jpg 648w, https://jpimg.com.br/uploads/2019/10/a4243b1a7d1f5ce3f58717dcd39f43284d49899bw-864x576.jpg 864w, https://jpimg.com.br/uploads/2019/10/a4243b1a7d1f5ce3f58717dcd39f43284d49899bw-506x337.jpg 506w" sizes="(max-width: 900px) 100vw, 900px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/mundo/sem-acordo-gantz-desiste-formar-governo-israel.html' target='_self'  >
+              Sem acordo com Netanyahu, Gantz desiste de formar governo em Israel            </a>
+          </div>
+        </div>
+         
+      </div>
+    </div>
+  </div>
+  </div><div id='tab3' class='tab-pane ' role='tabpanel'>  <div class='content content-news'>
+    <div class='row'>
+      <div class='col-sm-6 col-xs-12'>
+          <!-- Loop --> 
+                    <div class='featured-news'>
+            <a class='image' href='https://jovempan.com.br/noticias/economia/dolar-tem-alta-de-011-e-fecha-em-r-420-em-dia-de-poucos-negocios.html' target='_self'  >
+              <!-- Category Highlight -->
+                              <span class='category'>
+                  Economia                </span>
+                   
+              <!-- End Category Highlight  -->
+              <!-- Post thumbnail -->
+                                <img width="850" height="479" src="https://jpimg.com.br/uploads/2018/05/DOLETAS-850x479.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2018/05/DOLETAS-850x479.jpg 850w, https://jpimg.com.br/uploads/2018/05/DOLETAS-850x479-750x423.jpg 750w, https://jpimg.com.br/uploads/2018/05/DOLETAS-850x479-768x432.jpg 768w, https://jpimg.com.br/uploads/2018/05/DOLETAS-850x479-300x170.jpg 300w, https://jpimg.com.br/uploads/2018/05/DOLETAS-850x479-598x337.jpg 598w" sizes="(max-width: 850px) 100vw, 850px" loading="lazy" />           
+                            <!-- End Post thumbnail -->
+            </a>
+            <a class='title' href='https://jovempan.com.br/noticias/economia/dolar-tem-alta-de-011-e-fecha-em-r-420-em-dia-de-poucos-negocios.html' target='_self'  >
+              Dólar tem alta de 0,11% e fecha em R$ 4,20 em dia de poucos negócios            </a>
+          </div>		
+                  <div class='featured-news'>
+            <a class='image' href='https://jovempan.com.br/noticias/economia/petrobras-assina-contrato-venda-liquigas-r-37-bi.html' target='_self'  >
+              <!-- Category Highlight -->
+                              <span class='category'>
+                  Economia                </span>
+                   
+              <!-- End Category Highlight  -->
+              <!-- Post thumbnail -->
+                                <img width="1140" height="760" src="https://jpimg.com.br/uploads/2019/09/petrobras.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/09/petrobras.jpg 1140w, https://jpimg.com.br/uploads/2019/09/petrobras-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/09/petrobras-768x512.jpg 768w, https://jpimg.com.br/uploads/2019/09/petrobras-1024x683.jpg 1024w, https://jpimg.com.br/uploads/2019/09/petrobras-1080x720.jpg 1080w, https://jpimg.com.br/uploads/2019/09/petrobras-648x432.jpg 648w, https://jpimg.com.br/uploads/2019/09/petrobras-864x576.jpg 864w, https://jpimg.com.br/uploads/2019/09/petrobras-506x337.jpg 506w" sizes="(max-width: 1140px) 100vw, 1140px" loading="lazy" />           
+                            <!-- End Post thumbnail -->
+            </a>
+            <a class='title' href='https://jovempan.com.br/noticias/economia/petrobras-assina-contrato-venda-liquigas-r-37-bi.html' target='_self'  >
+              Petrobras assina contrato de venda da Liquigás por R$ 3,7 bi            </a>
+          </div>		
+         
+      </div>
+      <div class='col-sm-6 col-xs-12'>
+        <!-- Loop --> 
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/economia/frustracao-cessao-onerosa-dolar-subir-diz-campos-neto.html' target='_self'  >
+                <img width="1140" height="760" src="https://jpimg.com.br/uploads/2019/02/campos-neto.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/02/campos-neto.jpg 1140w, https://jpimg.com.br/uploads/2019/02/campos-neto-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/02/campos-neto-768x512.jpg 768w, https://jpimg.com.br/uploads/2019/02/campos-neto-1024x683.jpg 1024w, https://jpimg.com.br/uploads/2019/02/campos-neto-1080x720.jpg 1080w, https://jpimg.com.br/uploads/2019/02/campos-neto-648x432.jpg 648w, https://jpimg.com.br/uploads/2019/02/campos-neto-864x576.jpg 864w, https://jpimg.com.br/uploads/2019/02/campos-neto-506x337.jpg 506w" sizes="(max-width: 1140px) 100vw, 1140px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/economia/frustracao-cessao-onerosa-dolar-subir-diz-campos-neto.html' target='_self'  >
+              Frustração com cessão onerosa fez dólar subir, diz Campos Neto            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/economia/dolar-recorde-historico.html' target='_self'  >
+                <img width="1400" height="938" src="https://jpimg.com.br/uploads/2019/05/AGE20190517085.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/05/AGE20190517085.jpg 1400w, https://jpimg.com.br/uploads/2019/05/AGE20190517085-746x500.jpg 746w, https://jpimg.com.br/uploads/2019/05/AGE20190517085-768x515.jpg 768w, https://jpimg.com.br/uploads/2019/05/AGE20190517085-1024x686.jpg 1024w, https://jpimg.com.br/uploads/2019/05/AGE20190517085-1075x720.jpg 1075w, https://jpimg.com.br/uploads/2019/05/AGE20190517085-645x432.jpg 645w, https://jpimg.com.br/uploads/2019/05/AGE20190517085-860x576.jpg 860w, https://jpimg.com.br/uploads/2019/05/AGE20190517085-503x337.jpg 503w" sizes="(max-width: 1400px) 100vw, 1400px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/economia/dolar-recorde-historico.html' target='_self'  >
+              Dólar ultrapassa R$ 4,20 e fecha no maior valor desde criação do real            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/economia/orcamento-2019-descontingenciamento.html' target='_self'  >
+                <img width="1400" height="933" src="https://jpimg.com.br/uploads/2019/11/48418173826_8c66eced66_k.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/11/48418173826_8c66eced66_k.jpg 1400w, https://jpimg.com.br/uploads/2019/11/48418173826_8c66eced66_k-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/11/48418173826_8c66eced66_k-768x512.jpg 768w, https://jpimg.com.br/uploads/2019/11/48418173826_8c66eced66_k-1024x682.jpg 1024w, https://jpimg.com.br/uploads/2019/11/48418173826_8c66eced66_k-1080x720.jpg 1080w, https://jpimg.com.br/uploads/2019/11/48418173826_8c66eced66_k-648x432.jpg 648w, https://jpimg.com.br/uploads/2019/11/48418173826_8c66eced66_k-864x576.jpg 864w, https://jpimg.com.br/uploads/2019/11/48418173826_8c66eced66_k-506x337.jpg 506w" sizes="(max-width: 1400px) 100vw, 1400px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/economia/orcamento-2019-descontingenciamento.html' target='_self'  >
+              Governo oficializa descontingenciamento do Orçamento de 2019            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/economia/governo-central-2019-deficit-abaixo-r-80-bi-diz-guedes.html' target='_self'  >
+                <img width="1400" height="933" src="https://jpimg.com.br/uploads/2019/09/paulo-guedes.jpg" class="attachment-full size-full wp-post-image" alt="ministro da Economia, Paulo Guedes" srcset="https://jpimg.com.br/uploads/2019/09/paulo-guedes.jpg 1400w, https://jpimg.com.br/uploads/2019/09/paulo-guedes-750x500.jpg 750w, https://jpimg.com.br/uploads/2019/09/paulo-guedes-768x512.jpg 768w, https://jpimg.com.br/uploads/2019/09/paulo-guedes-1024x682.jpg 1024w, https://jpimg.com.br/uploads/2019/09/paulo-guedes-1080x720.jpg 1080w, https://jpimg.com.br/uploads/2019/09/paulo-guedes-648x432.jpg 648w, https://jpimg.com.br/uploads/2019/09/paulo-guedes-864x576.jpg 864w, https://jpimg.com.br/uploads/2019/09/paulo-guedes-506x337.jpg 506w" sizes="(max-width: 1400px) 100vw, 1400px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/economia/governo-central-2019-deficit-abaixo-r-80-bi-diz-guedes.html' target='_self'  >
+              Governo Central deve fechar 2019 com déficit abaixo de R$ 80 bi, diz Guedes            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/economia/secretario-de-fazenda-diz-que-ha-zero-possibilidade-de-aumentar-a-carga-de-impostos.html' target='_self'  >
+                <img width="652" height="408" src="https://jpimg.com.br/uploads/2019/07/0ei8gax1llmd3chox2dr81i9f.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/07/0ei8gax1llmd3chox2dr81i9f.jpg 652w, https://jpimg.com.br/uploads/2019/07/0ei8gax1llmd3chox2dr81i9f-539x337.jpg 539w" sizes="(max-width: 652px) 100vw, 652px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/economia/secretario-de-fazenda-diz-que-ha-zero-possibilidade-de-aumentar-a-carga-de-impostos.html' target='_self'  >
+              Secretário de Fazenda diz que &#8216;há zero possibilidade de aumentar a carga de impostos&#8217;            </a>
+          </div>
+        </div>
+                <div class='news-small'>
+          <div class='image'>
+            <!-- Post thumbnail -->
+                          <a href='https://jovempan.com.br/noticias/economia/com-selic-em-queda-poupanca-pode-passar-a-render-menos-que-a-inflacao.html' target='_self'  >
+                <img width="580" height="388" src="https://jpimg.com.br/uploads/2017/06/1289421990-economia-taxa-juros-agencia-brasil.jpg" class="attachment-full size-full wp-post-image" alt="Marcello Casal Jr/Agência Brasil" srcset="https://jpimg.com.br/uploads/2017/06/1289421990-economia-taxa-juros-agencia-brasil.jpg 580w, https://jpimg.com.br/uploads/2017/06/1289421990-economia-taxa-juros-agencia-brasil-300x201.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" loading="lazy" />        
+              </a>   
+                        <!-- End Post thumbnail -->
+          </div>
+          <div class='link'>	
+            <a class='title' href='https://jovempan.com.br/noticias/economia/com-selic-em-queda-poupanca-pode-passar-a-render-menos-que-a-inflacao.html' target='_self'  >
+              Com Selic em queda, poupança pode passar a render menos que a inflação            </a>
+          </div>
+        </div>
+         
+      </div>
+    </div>
+  </div>
+  </div>        </div>
+      </div>
+    </div>    
+  </section>
+    <!-- Mais Lidos -->
+  
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-jms-home-blocks-column col-md-4 col-sm-5 col-xs-12">
+<section id="jp-blogs-52" class="wp-block-jms-home-blocks-blogs section-box blogs content-noticias"><div class="row"><div class="col-md-12"><div class="header-title"><div class="header"><a href="/blogs" target="_self" rel="noopener noreferrer"><h2 class="title">Blogs</h2></a></div></div></div></div><div class="row"><div class="col-md-12"><div class="content content-blogs"><div class="more-news"><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2019/07/pra-cima-deles.png" class="post-image"/></div><div class="link"><a class="title" href="https://blog.jovempan.com.br/pra-cima-deles/" target="_self" rel="noopener noreferrer">Pra Cima Deles</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2018/09/avatar-direto-da-redação.jpg" class="post-image"/></div><div class="link"><a class="title" href="https://blog.jovempan.com.br/direto-da-redacao/" target="_self" rel="noopener noreferrer">Direto da Redação</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2017/06/avatar-denise-campos-v2.jpg" class="post-image"/></div><div class="link"><a class="title" href="http://blog.jovempan.com.br/denisecamposdetoledo/" target="_self" rel="noopener noreferrer">Denise Campos de Toledo</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2017/10/carlos-aros.jpg" class="post-image"/></div><div class="link"><a class="title" href="http://blog.jovempan.com.br/technews/" target="_self" rel="noopener noreferrer">Tech News</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2017/06/avatar-jose-luiz-tejon.jpg" class="post-image"/></div><div class="link"><a class="title" href="http://blog.jovempan.com.br/cabecadelider/" target="_blank" rel="noopener noreferrer">Cabeça de Líder</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2019/11/logo-reporteres-rio-pinheiros.jpg" class="post-image"/></div><div class="link"><a class="title" href="https://blog.jovempan.com.br/os-reporteres-do-rio-pinheiros/" target="_blank" rel="noopener noreferrer">Os Repórteres do Rio Pinheiros</a></div></div></div></div></div></div></section>
+
+
+
+<p></p>
+</div>
+</div></div>
+
+
+
+        <!-- Videos -->
+    <section id="videos-15" class="section-box videos content-opiniao">
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="header-videos">
+            <div class="header">
+              <a href="https://jovempan.com.br/videos" target="_self">
+                <h2 class="title">
+                  TV JP                </h2>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="content-videos">
+            <!-- Loop --> 
+                                    <div class="content-player">
+              <div class="ratio">
+                <div class="video-item" style="display: block">
+                  <iframe class="media" type="text/html" src="https://www.youtube.com/embed/R_CGObQtlpI?autoplay=0"
+                    frameborder="0" allowfullscreen></iframe>
+                </div>
+              </div>
+            </div>
+            <div class="list">
+              <div class="list-item">
+                            <div class="item active-list" data-id="R_CGObQtlpI">
+                  <!-- Post thumbnail -->
+                                    <div class="thumb">
+                    <img src="https://jpimg.com.br/uploads/2019/11/esporte-em-discussao-21-11-2019-300x170.jpg" alt="Esporte em Discussão - 21/11/2019" />           
+                  </div>
+                                    <!-- End Post thumbnail -->
+                  <div class="info">
+                    <!-- Category Highlight -->
+                                        <span class="category">
+                      Esporte em Discussão                    </span>
+                         
+                    <!-- End Category Highlight  -->
+                    <h3 class="title">
+                      Esporte em Discussão &#8211; 21/11/2019                    </h3>
+                  </div>
+                </div>
+                                                    <div class="item" data-id="GzHebIUxbMw">
+                  <!-- Post thumbnail -->
+                                    <div class="thumb">
+                    <img src="https://jpimg.com.br/uploads/2019/11/camisa-10-21-11-2019-300x170.jpg" alt="Camisa 10 - 21/11/2019" />           
+                  </div>
+                                    <!-- End Post thumbnail -->
+                  <div class="info">
+                    <!-- Category Highlight -->
+                                        <span class="category">
+                      Camisa 10                    </span>
+                         
+                    <!-- End Category Highlight  -->
+                    <h3 class="title">
+                      Camisa 10 &#8211; 21/11/2019                    </h3>
+                  </div>
+                </div>
+                                                    <div class="item" data-id="yFdliK6Gri0">
+                  <!-- Post thumbnail -->
+                                    <div class="thumb">
+                    <img src="https://jpimg.com.br/uploads/2019/11/paulo-cruz-e-yuri-marcal-programa-panico-19-11-19-ao-vivo-300x170.jpg" alt="Paulo Cruz e Yuri Marçal  | Programa Pânico - 19/11/19 - AO VIVO" />           
+                  </div>
+                                    <!-- End Post thumbnail -->
+                  <div class="info">
+                    <!-- Category Highlight -->
+                                        <span class="category">
+                      Pânico                    </span>
+                         
+                    <!-- End Category Highlight  -->
+                    <h3 class="title">
+                      Paulo Cruz e Yuri Marçal  | Programa Pânico &#8211; 19/11/19 &#8211; AO VIVO                    </h3>
+                  </div>
+                </div>
+                                                    <div class="item" data-id="8GLY6Lwt4HE">
+                  <!-- Post thumbnail -->
+                                    <div class="thumb">
+                    <img src="https://jpimg.com.br/uploads/2019/10/top-10-jp-300x170.jpg" alt="Top 10 | 21.11 | Fernando Pimentel é condenado, morre diretor Fábio Barreto e mais" />           
+                  </div>
+                                    <!-- End Post thumbnail -->
+                  <div class="info">
+                    <!-- Category Highlight -->
+                                        <span class="category">
+                      Jornal da Manhã                    </span>
+                         
+                    <!-- End Category Highlight  -->
+                    <h3 class="title">
+                      Top 10 | 21.11 | Fernando Pimentel é condenado, morre diretor Fábio Barreto e mais                    </h3>
+                  </div>
+                </div>
+                                                    <div class="item" data-id="qGNz8f_See0">
+                  <!-- Post thumbnail -->
+                                    <div class="thumb">
+                    <img src="https://jpimg.com.br/uploads/2019/11/jornal-da-manha-2a-edicao-21-11-2019-300x170.jpg" alt="Jornal da Manhã - 2ª Edição - 21/11/2019" />           
+                  </div>
+                                    <!-- End Post thumbnail -->
+                  <div class="info">
+                    <!-- Category Highlight -->
+                                        <span class="category">
+                      Jornal da Manhã                    </span>
+                         
+                    <!-- End Category Highlight  -->
+                    <h3 class="title">
+                      Jornal da Manhã &#8211; 2ª Edição &#8211; 21/11/2019                    </h3>
+                  </div>
+                </div>
+                                                    <div class="item" data-id="1flhJf1EY0o">
+                  <!-- Post thumbnail -->
+                                    <div class="thumb">
+                    <img src="https://jpimg.com.br/uploads/2019/11/porteiro-recua-foto-de-hypolito-com-jair-papo-com-mariana-ferrao-morning-show-21-11-19-300x170.jpg" alt="Porteiro recua, foto de Hypolito com Jair, papo com Mariana Ferrão | Morning Show  - 21/11/19" />           
+                  </div>
+                                    <!-- End Post thumbnail -->
+                  <div class="info">
+                    <!-- Category Highlight -->
+                                        <span class="category">
+                      Morning Show                    </span>
+                         
+                    <!-- End Category Highlight  -->
+                    <h3 class="title">
+                      Porteiro recua, foto de Hypolito com Jair, papo com Mariana Ferrão | Morning Show  &#8211; 21/11/19                    </h3>
+                  </div>
+                </div>
+                                                    <div class="item" data-id="1JbPzN59NnQ">
+                  <!-- Post thumbnail -->
+                                    <div class="thumb">
+                    <img src="https://img.youtube.com/vi/1JbPzN59NnQ/mqdefault.jpg" alt="XP Investimentos pode valer R$ 50 bilhões" />           
+                  </div>
+                                    <!-- End Post thumbnail -->
+                  <div class="info">
+                    <!-- Category Highlight -->
+                                        <span class="category">
+                      Carlos Sambrana                    </span>
+                         
+                    <!-- End Category Highlight  -->
+                    <h3 class="title">
+                      XP Investimentos pode valer R$ 50 bilhões                    </h3>
+                  </div>
+                </div>
+                                                    <div class="item" data-id="3eB3meEQSxE">
+                  <!-- Post thumbnail -->
+                                    <div class="thumb">
+                    <img src="https://img.youtube.com/vi/3eB3meEQSxE/mqdefault.jpg" alt="Episódio 5 - Ozllo" />           
+                  </div>
+                                    <!-- End Post thumbnail -->
+                  <div class="info">
+                    <!-- Category Highlight -->
+                                        <span class="category">
+                      O Anjo Investidor                    </span>
+                         
+                    <!-- End Category Highlight  -->
+                    <h3 class="title">
+                      Episódio 5 &#8211; Ozllo                    </h3>
+                  </div>
+                </div>
+                                                    <div class="item" data-id="oqzOcZ3DqZM">
+                  <!-- Post thumbnail -->
+                                    <div class="thumb">
+                    <img src="https://jpimg.com.br/uploads/2019/11/jornal-da-manha-21-11-2019-300x170.jpg" alt="Jornal da Manhã - 21/11/2019" />           
+                  </div>
+                                    <!-- End Post thumbnail -->
+                  <div class="info">
+                    <!-- Category Highlight -->
+                                        <span class="category">
+                      Jornal da Manhã                    </span>
+                         
+                    <!-- End Category Highlight  -->
+                    <h3 class="title">
+                      Jornal da Manhã &#8211; 21/11/2019                    </h3>
+                  </div>
+                </div>
+                                                    <div class="item" data-id="ahmBUm8TVyU">
+                  <!-- Post thumbnail -->
+                                    <div class="thumb">
+                    <img src="https://jpimg.com.br/uploads/2019/07/fcpzzb_abr_130920181346-300x170.jpg" alt="Nem Toffoli entendeu o próprio voto" />           
+                  </div>
+                                    <!-- End Post thumbnail -->
+                  <div class="info">
+                    <!-- Category Highlight -->
+                                        <span class="category">
+                      Os Pingos nos Is                    </span>
+                         
+                    <!-- End Category Highlight  -->
+                    <h3 class="title">
+                      Nem Toffoli entendeu o próprio voto                    </h3>
+                  </div>
+                </div>
+                                                    <div class="item" data-id="MQHDqfpFLis">
+                  <!-- Post thumbnail -->
+                                    <div class="thumb">
+                    <img src="https://img.youtube.com/vi/MQHDqfpFLis/mqdefault.jpg" alt="Os Pingos Nos Is - 20/11/19" />           
+                  </div>
+                                    <!-- End Post thumbnail -->
+                  <div class="info">
+                    <!-- Category Highlight -->
+                                        <span class="category">
+                      Os Pingos nos Is                    </span>
+                         
+                    <!-- End Category Highlight  -->
+                    <h3 class="title">
+                      Os Pingos Nos Is &#8211; 20/11/19                    </h3>
+                  </div>
+                </div>
+                                                    <div class="item" data-id="CeubWv9dpjI">
+                  <!-- Post thumbnail -->
+                                    <div class="thumb">
+                    <img src="https://jpimg.com.br/uploads/2019/11/204514-300x170.jpg" alt="Atitude de deputado é inaceitável, mas indignação é legítima" />           
+                  </div>
+                                    <!-- End Post thumbnail -->
+                  <div class="info">
+                    <!-- Category Highlight -->
+                                        <span class="category">
+                      3 em 1                    </span>
+                         
+                    <!-- End Category Highlight  -->
+                    <h3 class="title">
+                      Atitude de deputado é inaceitável, mas indignação é legítima                    </h3>
+                  </div>
+                </div>
+                         
+          </div>
+        </div>
+      </div>   
+      </section>
+        <!-- Videos -->
+    
+
+
+<div class="wp-block-jms-home-blocks-columns"><div class="row">
+<div class="wp-block-jms-home-blocks-column col-md-8 col-sm-7 col-xs-12">
+<section id="jp-posts-carousel-46" class="wp-block-jms-home-blocks-posts-carousel section-box posts-carousel content-opiniao"><div class="row"><div class="col-md-12"><div class="header-title"><div class="header"><a href="/opiniao-jovem-pan" target="_self" rel="noopener noreferrer"><h2 class="title">Opinião</h2></a><nav><ul class="menu-carousel"><li><span class="left"><i class="glyphicon glyphicon-chevron-left jms-carousel-prev"></i></span></li><li><span class="right"><i class="glyphicon glyphicon-chevron-right jms-carousel-next"></i></span></li></ul></nav></div></div></div></div><div class="row"><div class="col-md-12"><div id="carousel-46" class="jms-posts-carousel"><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/bruno-garschagen/bruno-garschagen-voto-de-toffoli-foi-longuissimo-e-incompreensivel.html" target="_self" rel="noopener noreferrer"><span class="category">Bruno Garschagen</span><img src="https://jpimg.com.br/uploads/2019/03/bruno-garschagen.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/bruno-garschagen/bruno-garschagen-voto-de-toffoli-foi-longuissimo-e-incompreensivel.html" target="_self" rel="noopener noreferrer">Voto de Toffoli foi longuíssimo e incompreensível</a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/vera-magalhaes/vera-toffoli-se-enrola-e-nao-consegue-esclarecer-voto-mas-uso-de-dados-deve-ser-limitado.html" target="_self" rel="noopener noreferrer"><span class="category">Vera Magalhães</span><img src="https://jpimg.com.br/uploads/2018/12/vera-magalhaes.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/vera-magalhaes/vera-toffoli-se-enrola-e-nao-consegue-esclarecer-voto-mas-uso-de-dados-deve-ser-limitado.html" target="_self" rel="noopener noreferrer">Toffoli se enrola e não consegue esclarecer voto</a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/rodrigo-constantino/constantino-sociedade-precisa-continuar-pressionando-congresso-por-prisao-em-2a-instancia.html" target="_self" rel="noopener noreferrer"><span class="category">Rodrigo Constantino</span><img src="https://jpimg.com.br/uploads/2019/01/rodrigo-constantino-1.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/rodrigo-constantino/constantino-sociedade-precisa-continuar-pressionando-congresso-por-prisao-em-2a-instancia.html" target="_self" rel="noopener noreferrer">Sociedade precisa continuar pressionando Congresso</a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/denise-campos-de-toledo/denise-bc-quer-incentivar-renegociacao-de-dividas-para-quem-fizer-reeducacao-financeira.html" target="_self" rel="noopener noreferrer"><span class="category">Denise Campos de Toledo</span><img src="https://jpimg.com.br/uploads/2019/03/denise-campos-toledo.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/denise-campos-de-toledo/denise-bc-quer-incentivar-renegociacao-de-dividas-para-quem-fizer-reeducacao-financeira.html" target="_self" rel="noopener noreferrer">BC quer incentivar renegociação de dívidas </a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/samy-dana/samy-dana-inseguranca-quer-dizer-risco-e-risco-afasta-dinheiro.html" target="_self" rel="noopener noreferrer"><span class="category">Samy Dana</span><img src="https://jpimg.com.br/uploads/2019/03/samy-dana.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/opiniao-jovem-pan/comentaristas/samy-dana/samy-dana-inseguranca-quer-dizer-risco-e-risco-afasta-dinheiro.html" target="_self" rel="noopener noreferrer">Insegurança quer dizer risco &#8211; e risco afasta dinheiro</a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/videos/opiniao-jovem-pan/comentaristas/carlos-sambrana/xp-investimentos-pode-valer-r-50-bilhoes.html" target="_self" rel="noopener noreferrer"><span class="category">Carlos Sambrana</span><img src="https://jpimg.com.br/uploads/2019/03/sambrana.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/videos/opiniao-jovem-pan/comentaristas/carlos-sambrana/xp-investimentos-pode-valer-r-50-bilhoes.html" target="_self" rel="noopener noreferrer">XP Investimentos pode valer R$ 50 bilhões</a></div></div></div></div></div></section>
+
+
+
+<section id="jp-posts-carousel-4" class="wp-block-jms-home-blocks-posts-carousel section-box posts-carousel content-opiniao"><div class="row"><div class="col-md-12"><div class="header-title"><div class="header"><a href="/programas" target="_self" rel="noopener noreferrer"><h2 class="title">Programas</h2></a><nav><ul class="menu-carousel"><li><span class="left"><i class="glyphicon glyphicon-chevron-left jms-carousel-prev"></i></span></li><li><span class="right"><i class="glyphicon glyphicon-chevron-right jms-carousel-next"></i></span></li></ul></nav></div></div></div></div><div class="row"><div class="col-md-12"><div id="carousel-4" class="jms-posts-carousel"><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/videos/programas/os-pingos-nos-is/nem-toffoli-entendeu-o-proprio-voto.html" target="_self" rel="noopener noreferrer"><span class="category">Os Pingos nos Is</span><img src="https://jpimg.com.br/uploads/2019/07/fcpzzb_abr_130920181346.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/videos/programas/os-pingos-nos-is/nem-toffoli-entendeu-o-proprio-voto.html" target="_self" rel="noopener noreferrer">Nem Toffoli entendeu o próprio voto</a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/videos/programas/3-em-1/atitude-de-deputado-e-inaceitavel-mas-indignacao-e-legitima.html" target="_self" rel="noopener noreferrer"><span class="category">3 em 1</span><img src="https://jpimg.com.br/uploads/2019/11/204514.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/videos/programas/3-em-1/atitude-de-deputado-e-inaceitavel-mas-indignacao-e-legitima.html" target="_self" rel="noopener noreferrer">Atitude de deputado é inaceitável</a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/videos/programas/panico/professor-paulo-cruz-nao-existe-apropriacao-cultural.html" target="_self" rel="noopener noreferrer"><span class="category">Pânico</span><img src="https://jpimg.com.br/uploads/2019/11/yuri-marcal-e-paulo-cruz-panico-11.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/videos/programas/panico/professor-paulo-cruz-nao-existe-apropriacao-cultural.html" target="_self" rel="noopener noreferrer">Professor Paulo Cruz: &#8216;Não existe apropriação cultural&#8217;</a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/videos/programas/jovem-pan-morning-show/mamae-falei-vai-sair-candidato-a-prefeitura-de-sp.html" target="_self" rel="noopener noreferrer"><span class="category">Morning Show</span><img src="https://jpimg.com.br/uploads/2019/10/arthur-do-val-tiago-pavinatto-e-thiago-abravanel-panico-76.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/videos/programas/jovem-pan-morning-show/mamae-falei-vai-sair-candidato-a-prefeitura-de-sp.html" target="_self" rel="noopener noreferrer">“Mamãe Falei” vai sair candidato à prefeitura de SP?</a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/videos/programas/panico/yuri-marcal-se-fantasia-de-homem-branco.html" target="_self" rel="noopener noreferrer"><span class="category">Pânico</span><img src="https://jpimg.com.br/uploads/2019/11/yuri-marcal-e-paulo-cruz-panico-14.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/videos/programas/panico/yuri-marcal-se-fantasia-de-homem-branco.html" target="_self" rel="noopener noreferrer">Yuri Marçal se fantasia de HOMEM BRANCO</a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/videos/programas/panico/rogerio-marinho-explica-o-programa-verde-e-amarelo.html" target="_self" rel="noopener noreferrer"><span class="category">Pânico</span><img src="https://jpimg.com.br/uploads/2019/06/dsc2437.152001.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/videos/programas/panico/rogerio-marinho-explica-o-programa-verde-e-amarelo.html" target="_self" rel="noopener noreferrer">Rogério Marinho explica o programa Verde e Amarelo</a></div></div></div></div></div></section>
+
+
+
+<section id="jp-posts-carousel-63" class="wp-block-jms-home-blocks-posts-carousel section-box posts-carousel content-opiniao"><div class="row"><div class="col-md-12"><div class="header-title"><div class="header"><a href="/noticias" target="_self" rel="noopener noreferrer"><h2 class="title">O Anjo investidor</h2></a><nav><ul class="menu-carousel"><li><span class="left"><i class="glyphicon glyphicon-chevron-left jms-carousel-prev"></i></span></li><li><span class="right"><i class="glyphicon glyphicon-chevron-right jms-carousel-next"></i></span></li></ul></nav></div></div></div></div><div class="row"><div class="col-md-12"><div id="carousel-63" class="jms-posts-carousel"><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/videos/programas/o-anjo-investidor/episodio-1-soulog.html" target="_self" rel="noopener noreferrer"><span class="category">O Anjo Investidor</span><img src="https://img.youtube.com/vi/Jqiw1I9Y254/mqdefault.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/videos/programas/o-anjo-investidor/episodio-1-soulog.html" target="_self" rel="noopener noreferrer">Episódio 1 &#8211; Soulog</a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/videos/programas/o-anjo-investidor/episodio-2-casa-e-cafe.html" target="_self" rel="noopener noreferrer"><span class="category">O Anjo Investidor</span><img src="https://img.youtube.com/vi/EURNVf3be7Y/mqdefault.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/videos/programas/o-anjo-investidor/episodio-2-casa-e-cafe.html" target="_self" rel="noopener noreferrer">Episódio 2 – Casa e Café</a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/videos/programas/o-anjo-investidor/episodio-3-celebryts.html" target="_self" rel="noopener noreferrer"><span class="category">O Anjo Investidor</span><img src="https://img.youtube.com/vi/f4HccRDXuQs/mqdefault.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/videos/programas/o-anjo-investidor/episodio-3-celebryts.html" target="_self" rel="noopener noreferrer">Episódio 3 &#8211; Celebryts</a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/videos/programas/o-anjo-investidor/episodio-4-pedala.html" target="_self" rel="noopener noreferrer"><span class="category">O Anjo Investidor</span><img src="https://img.youtube.com/vi/FB1j0F9p5F0/mqdefault.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/videos/programas/o-anjo-investidor/episodio-4-pedala.html" target="_self" rel="noopener noreferrer">Episódio 4 &#8211; Pedala</a></div></div><div class="item"><div class="featured-news"><a class="image" href="https://jovempan.com.br/videos/programas/o-anjo-investidor/episodio-5-ozllo.html" target="_self" rel="noopener noreferrer"><span class="category">O Anjo Investidor</span><img src="https://img.youtube.com/vi/3eB3meEQSxE/mqdefault.jpg" class="post-image"/></a><a class="title" href="https://jovempan.com.br/videos/programas/o-anjo-investidor/episodio-5-ozllo.html" target="_self" rel="noopener noreferrer">Episódio 5 &#8211; Ozllo</a></div></div></div></div></div></section>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-jms-home-blocks-column col-md-4 col-sm-5 col-xs-12">
+<div class="jp-ads-area"><div data-banner="true" data-bannerid="banner-300x250-area" data-bannersize="[[300, 250]]"></div></div>
+
+
+  <!-- Mais Lidos -->
+  <section id="jp-popular-posts-4" class="section-box popular-posts content-opiniao">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="header-popular-posts">
+          <div class="header">
+            <a class="image-link" href="" target="_self" >  
+              <h2 class="title">
+                Mais lidas              </h2>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="content content-popular-posts">
+          <div class="more-news">
+          <!-- Loop --> 
+                        <div class="news-small">
+                            <!-- Post thumbnail -->
+              <div class="image">
+                <a class="image-link" href="https://jovempan.com.br/noticias/brasil/homem-que-atirou-em-moradora-de-rua-por-pedir-r-1-alega-legitima-defesa.html" target="_self" >  
+                  <img width="738" height="432" src="https://jpimg.com.br/uploads/2019/11/atirador-niteroi--738x432.jpg" class="attachment-custom-medium size-custom-medium wp-post-image" alt="moradora de rua é morta em Niterói" srcset="https://jpimg.com.br/uploads/2019/11/atirador-niteroi--738x432.jpg 738w, https://jpimg.com.br/uploads/2019/11/atirador-niteroi--750x439.jpg 750w, https://jpimg.com.br/uploads/2019/11/atirador-niteroi--768x450.jpg 768w, https://jpimg.com.br/uploads/2019/11/atirador-niteroi--1024x600.jpg 1024w, https://jpimg.com.br/uploads/2019/11/atirador-niteroi--984x576.jpg 984w, https://jpimg.com.br/uploads/2019/11/atirador-niteroi--575x337.jpg 575w, https://jpimg.com.br/uploads/2019/11/atirador-niteroi-.jpg 1127w" sizes="(max-width: 738px) 100vw, 738px" loading="lazy" />           
+                </a>
+              </div>
+              <!-- End Post thumbnail -->
+                            <div class="link">   
+                <a class="title" href="https://jovempan.com.br/noticias/brasil/homem-que-atirou-em-moradora-de-rua-por-pedir-r-1-alega-legitima-defesa.html" target="_self" >
+                  Homem que atirou em moradora de rua por pedir R$ 1 alega legítima defesa                </a>
+              </div>
+            </div>
+                        <div class="news-small">
+                            <!-- Post thumbnail -->
+              <div class="image">
+                <a class="image-link" href="https://jovempan.com.br/noticias/mundo/bolivia-mais-3-mortes-manifestacoes-violentas.html" target="_self" >  
+                  <img width="589" height="432" src="https://jpimg.com.br/uploads/2019/11/f0a3d92bc1403db7051cbf8f4bfed07414a4bc84-589x432.jpg" class="attachment-custom-medium size-custom-medium wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/11/f0a3d92bc1403db7051cbf8f4bfed07414a4bc84-589x432.jpg 589w, https://jpimg.com.br/uploads/2019/11/f0a3d92bc1403db7051cbf8f4bfed07414a4bc84-682x500.jpg 682w, https://jpimg.com.br/uploads/2019/11/f0a3d92bc1403db7051cbf8f4bfed07414a4bc84-768x563.jpg 768w, https://jpimg.com.br/uploads/2019/11/f0a3d92bc1403db7051cbf8f4bfed07414a4bc84-1024x751.jpg 1024w, https://jpimg.com.br/uploads/2019/11/f0a3d92bc1403db7051cbf8f4bfed07414a4bc84-981x720.jpg 981w, https://jpimg.com.br/uploads/2019/11/f0a3d92bc1403db7051cbf8f4bfed07414a4bc84-785x576.jpg 785w, https://jpimg.com.br/uploads/2019/11/f0a3d92bc1403db7051cbf8f4bfed07414a4bc84-459x337.jpg 459w, https://jpimg.com.br/uploads/2019/11/f0a3d92bc1403db7051cbf8f4bfed07414a4bc84.jpg 1400w" sizes="(max-width: 589px) 100vw, 589px" loading="lazy" />           
+                </a>
+              </div>
+              <!-- End Post thumbnail -->
+                            <div class="link">   
+                <a class="title" href="https://jovempan.com.br/noticias/mundo/bolivia-mais-3-mortes-manifestacoes-violentas.html" target="_self" >
+                  Bolívia registra mais 3 mortes durante manifestações violentas                </a>
+              </div>
+            </div>
+                        <div class="news-small">
+                            <!-- Post thumbnail -->
+              <div class="image">
+                <a class="image-link" href="https://jovempan.com.br/noticias/brasil/moradora-de-rua-e-morta-em-niteroi-apos-pedir-r-1.html" target="_self" >  
+                  <img width="738" height="432" src="https://jpimg.com.br/uploads/2019/11/atirador-niteroi--738x432.jpg" class="attachment-custom-medium size-custom-medium wp-post-image" alt="moradora de rua é morta em Niterói" srcset="https://jpimg.com.br/uploads/2019/11/atirador-niteroi--738x432.jpg 738w, https://jpimg.com.br/uploads/2019/11/atirador-niteroi--750x439.jpg 750w, https://jpimg.com.br/uploads/2019/11/atirador-niteroi--768x450.jpg 768w, https://jpimg.com.br/uploads/2019/11/atirador-niteroi--1024x600.jpg 1024w, https://jpimg.com.br/uploads/2019/11/atirador-niteroi--984x576.jpg 984w, https://jpimg.com.br/uploads/2019/11/atirador-niteroi--575x337.jpg 575w, https://jpimg.com.br/uploads/2019/11/atirador-niteroi-.jpg 1127w" sizes="(max-width: 738px) 100vw, 738px" loading="lazy" />           
+                </a>
+              </div>
+              <!-- End Post thumbnail -->
+                            <div class="link">   
+                <a class="title" href="https://jovempan.com.br/noticias/brasil/moradora-de-rua-e-morta-em-niteroi-apos-pedir-r-1.html" target="_self" >
+                  Moradora de rua é morta em Niterói após pedir R$ 1                </a>
+              </div>
+            </div>
+                        <div class="news-small">
+                            <!-- Post thumbnail -->
+              <div class="image">
+                <a class="image-link" href="https://jovempan.com.br/noticias/brasil/so-nao-pode-criticar-o-governo-diz-bolsonaro-sobre-declaracoes-de-weintraub.html" target="_self" >  
+                  <img width="765" height="432" src="https://jpimg.com.br/uploads/2019/03/weintraub-850x480-765x432.jpg" class="attachment-custom-medium size-custom-medium wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/03/weintraub-850x480-765x432.jpg 765w, https://jpimg.com.br/uploads/2019/03/weintraub-850x480-300x170.jpg 300w, https://jpimg.com.br/uploads/2019/03/weintraub-850x480-750x424.jpg 750w, https://jpimg.com.br/uploads/2019/03/weintraub-850x480-768x434.jpg 768w, https://jpimg.com.br/uploads/2019/03/weintraub-850x480-597x337.jpg 597w, https://jpimg.com.br/uploads/2019/03/weintraub-850x480.jpg 850w" sizes="(max-width: 765px) 100vw, 765px" loading="lazy" />           
+                </a>
+              </div>
+              <!-- End Post thumbnail -->
+                            <div class="link">   
+                <a class="title" href="https://jovempan.com.br/noticias/brasil/so-nao-pode-criticar-o-governo-diz-bolsonaro-sobre-declaracoes-de-weintraub.html" target="_self" >
+                  &#8216;Só não pode criticar o governo&#8217;, diz Bolsonaro sobre declarações de Weintraub                </a>
+              </div>
+            </div>
+                        <div class="news-small">
+                            <!-- Post thumbnail -->
+              <div class="image">
+                <a class="image-link" href="https://jovempan.com.br/programas/jornal-da-manha/carcereiros-de-bilionario-que-se-matou-em-ny-sao-acusados-de-omissao.html" target="_self" >  
+                  <img width="324" height="432" src="https://jpimg.com.br/uploads/2019/03/637010485532156778w-324x432.jpg" class="attachment-custom-medium size-custom-medium wp-post-image" alt="" srcset="https://jpimg.com.br/uploads/2019/03/637010485532156778w-324x432.jpg 324w, https://jpimg.com.br/uploads/2019/03/637010485532156778w-375x500.jpg 375w, https://jpimg.com.br/uploads/2019/03/637010485532156778w-540x720.jpg 540w, https://jpimg.com.br/uploads/2019/03/637010485532156778w-432x576.jpg 432w, https://jpimg.com.br/uploads/2019/03/637010485532156778w-253x337.jpg 253w, https://jpimg.com.br/uploads/2019/03/637010485532156778w.jpg 700w" sizes="(max-width: 324px) 100vw, 324px" loading="lazy" />           
+                </a>
+              </div>
+              <!-- End Post thumbnail -->
+                            <div class="link">   
+                <a class="title" href="https://jovempan.com.br/programas/jornal-da-manha/carcereiros-de-bilionario-que-se-matou-em-ny-sao-acusados-de-omissao.html" target="_self" >
+                  Carcereiros de bilionário acusado de abuso que se matou em NY são acusados de omissão                </a>
+              </div>
+            </div>
+             
+          </div>
+        </div>
+      </div>
+    </div>    
+  </section>
+  <!-- Mais Lidos -->
+  
+
+
+<div id="jp-social-75" class="wp-block-jms-home-blocks-social column-social"><div class="social"><div class="icon-facebook"><a href="https://facebook.com/jovempannews/" target="_blank" rel="noopener noreferrer"><img src="/wp-content/plugins/jms-home-post-type/images/facebook.svg" alt="Facebook"/></a></div><div class="icon-twitter"><a href="https://twitter.com/JovemPanNews/" target="_blank" rel="noopener noreferrer"><img src="/wp-content/plugins/jms-home-post-type/images/twitter.svg" alt="Twitter"/></a></div><div class="icon-instagram"><a href="https://www.instagram.com/jovempannewsoficial/" target="instagram" rel="noopener noreferrer"><img src="/wp-content/plugins/jms-home-post-type/images/instagram.svg" alt="Instagram"/></a></div><div class="icon-youtube"><a href="https://www.youtube.com/user/portaljovempan/" target="_blank" rel="noopener noreferrer"><img src="/wp-content/plugins/jms-home-post-type/images/youtube.svg" alt="Youtube"/></a></div><div class="icon-flipboard"><a href="https://flipboard.com/@JovemPan" target="_blank" rel="noopener noreferrer"><img src="/wp-content/plugins/jms-home-post-type/images/flipboard.svg" alt="Flipboard"/></a></div><div class="icon-whatsapp"><a href="https://wa.me/5511931170620" target="_blank" rel="noopener noreferrer"><img src="/wp-content/plugins/jms-home-post-type/images/whatsapp.svg" alt="WhatsApp"/></a></div></div></div>
+</div>
+</div></div>
+
+
+	
+		<div class="twitter-ticker">
+			<div class="twitter-logo">
+				<a href="https://twitter.com/JovemPanNews" title="Jovem Pan no Twitter." target="_blank">Jovem Pan no Twitter</a>
+			</div>
+			<div class="tweets-list">
+				<ul><li><div>Jornal Jovem Pan  <a href="https://twitter.com/search?q=AOVIVO" title="Search #AOVIVO"  target="_blank"  >#AOVIVO</a>  <a href="https://twitter.com/search?q=agora" title="Search #agora"  target="_blank"  >#agora</a> pelo  <a href="https://twitter.com/search?q=Periscope" title="Search #Periscope"  target="_blank"  >#Periscope</a>. Participe com a hashtag  <a href="https://twitter.com/search?q=JornalJovemPan" title="Search #JornalJovemPan"  target="_blank"  >#JornalJovemPan</a>.  <a href="https://t.co/YUkSMLU7Aw" target="_blank">https://t.co/YUkSMLU7Aw</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197560741043159040">11 minutos atrás</a></div></li><li><div>➤ "Jornal Jovem Pan" no ar!  Assista ao vivo:  <a href="https://t.co/ycug1MNDUh" target="_blank">https://t.co/ycug1MNDUh</a>  Inscreva-se no canal:  <a href="https://t.co/O0rAVv6EfH" target="_blank">https://t.co/O0rAVv6EfH</a>  <a href="https://t.co/IdDMDWfoyD" target="_blank">https://t.co/IdDMDWfoyD</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197560466463166464">12 minutos atrás</a></div></li><li><div>Partido de Bolsonaro defende Deus, armas e oposição ao comunismo.   <a href="https://t.co/JL9ZvSqTSh" target="_blank">https://t.co/JL9ZvSqTSh</a>  <a href="https://t.co/r6ShaV8JzR" target="_blank">https://t.co/r6ShaV8JzR</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197552898600767488">43 minutos atrás</a></div></li><li><div>Moro: Seis ministros do STF não veem problema em mudança sobre 2ª instância.   <a href="https://t.co/fCTt9wr6Ku" target="_blank">https://t.co/fCTt9wr6Ku</a>  <a href="https://t.co/YXnM051BJ9" target="_blank">https://t.co/YXnM051BJ9</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197545349226860545">cerca de 1 hora atrás</a></div></li><li><div>OPINIÃO: "Sociedade precisa continuar pressionando Congresso por prisão em 2ª instância". |  <a href="http://twitter.com/Rconstantino" title="Follow Rconstantino"  target="_blank"  >@Rconstantino</a>…  <a href="https://t.co/N3M7Xwv392" target="_blank">https://t.co/N3M7Xwv392</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197537662854483970">cerca de 1 hora atrás</a></div></li><li><div>Bolsonaro: Sem assinatura eletrônica, Aliança Pelo Brasil ficará fora das eleições 2020.   <a href="https://t.co/tmDwAc5yiq" target="_blank">https://t.co/tmDwAc5yiq</a>  <a href="https://t.co/EIAYzOabqC" target="_blank">https://t.co/EIAYzOabqC</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197530114336182278">2 horas atrás</a></div></li><li><div>A Jovem Pan defende prisão após condenação em segunda instância.  Após uma campanha necessária e bem-sucedida pela…  <a href="https://t.co/TSIywqhzXy" target="_blank">https://t.co/TSIywqhzXy</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197523363352186881">2 horas atrás</a></div></li><li><div>OPINIÃO: "Toffoli se enrola e não consegue esclarecer voto, mas uso de dados deve ser limitado". |  <a href="http://twitter.com/veramagalhaes" title="Follow veramagalhaes"  target="_blank"  >@veramagalhaes</a>…  <a href="https://t.co/DCQbqOXk2V" target="_blank">https://t.co/DCQbqOXk2V</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197515307633561602">3 horas atrás</a></div></li><li><div>PODCAST: Ex-governador de MG e ex-ministro, Fernando Pimentel é condenado a 10 anos e 6 meses de prisão. | Direto d…  <a href="https://t.co/fx2CBQbzyj" target="_blank">https://t.co/fx2CBQbzyj</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197511254212071424">3 horas atrás</a></div></li><li><div>Gerdau, Vedacit e Tigre põem a mão na massa para resolver os problemas de habitação. | via  <a href="http://twitter.com/NeoFeedBrasil" title="Follow NeoFeedBrasil"  target="_blank"  >@NeoFeedBrasil</a>…  <a href="https://t.co/3ptJZzWUNt" target="_blank">https://t.co/3ptJZzWUNt</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197507637895712769">3 horas atrás</a></div></li><li><div>Jornal da Manhã 2ª Edição  <a href="https://twitter.com/search?q=AOVIVO" title="Search #AOVIVO"  target="_blank"  >#AOVIVO</a>  <a href="https://twitter.com/search?q=agora" title="Search #agora"  target="_blank"  >#agora</a> pelo  <a href="https://twitter.com/search?q=Periscope" title="Search #Periscope"  target="_blank"  >#Periscope</a>. Participe com a hashtag  <a href="https://twitter.com/search?q=JornalDaManh" title="Search #JornalDaManh"  target="_blank"  >#JornalDaManh</a>ã.  <a href="https://t.co/ja2X8bzhdY" target="_blank">https://t.co/ja2X8bzhdY</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197500671026548741">4 horas atrás</a></div></li><li><div>Deputado que rasgou cartaz vai responder ao Conselho de Ética.   <a href="https://t.co/kRf02SdQeK" target="_blank">https://t.co/kRf02SdQeK</a>  <a href="https://t.co/8qfHN7id1p" target="_blank">https://t.co/8qfHN7id1p</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197499925757669377">4 horas atrás</a></div></li><li><div>Ex governador de MG, Fernando Pimentel é condenado a 10 anos de prisão.   <a href="https://t.co/Tul6rWISk3" target="_blank">https://t.co/Tul6rWISk3</a>  <a href="https://t.co/O4eVHkAm8M" target="_blank">https://t.co/O4eVHkAm8M</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197492516368592897">4 horas atrás</a></div></li><li><div>Com dissidentes do PSL, novo partido de Bolsonaro faz primeira convenção nesta quinta-feira.…  <a href="https://t.co/VzrmyxSJMM" target="_blank">https://t.co/VzrmyxSJMM</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197485087706750977">5 horas atrás</a></div></li><li><div>Jovem Pan defende prisão em segunda instância.   <a href="https://t.co/YPTrNAo4L7" target="_blank">https://t.co/YPTrNAo4L7</a>  <a href="https://t.co/4plVTOjePw" target="_blank">https://t.co/4plVTOjePw</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197477263400415250">5 horas atrás</a></div></li><li><div>➤ "Jornal da Manhã" no ar!  Participe mandando seu comentário aqui no Twitter com a hashtag  <a href="https://twitter.com/search?q=JornalDaManha" title="Search #JornalDaManha"  target="_blank"  >#JornalDaManha</a>.  Assist…  <a href="https://t.co/5jbQKO7ARV" target="_blank">https://t.co/5jbQKO7ARV</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197454697222815749">7 horas atrás</a></div></li><li><div>Dólar tem alta de 0,11% e fecha em R$ 4,20 em dia de poucos negócios.    <a href="https://t.co/zkG9Gfhf85" target="_blank">https://t.co/zkG9Gfhf85</a>  <a href="https://t.co/n2RzHnahUR" target="_blank">https://t.co/n2RzHnahUR</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197364077951094785">13 horas atrás</a></div></li><li><div>Ex-presidente da Braskem é preso em NY acusado de corrupção.    <a href="https://t.co/BxzjvN2bWV" target="_blank">https://t.co/BxzjvN2bWV</a>  <a href="https://t.co/xg4gjQqK6I" target="_blank">https://t.co/xg4gjQqK6I</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197341411957465090">14 horas atrás</a></div></li><li><div>Sete pessoas são acusadas de terrorismo por derrubar muro de refinaria na Bolívia.    <a href="https://t.co/cJCzejdjCN" target="_blank">https://t.co/cJCzejdjCN</a>  <a href="https://t.co/xjv898HTv5" target="_blank">https://t.co/xjv898HTv5</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197333896305815559">15 horas atrás</a></div></li><li><div>Deputados protocolam projeto para ampliar o  <a href="https://twitter.com/search?q=BolsaFam" title="Search #BolsaFam"  target="_blank"  >#BolsaFam</a>ília para mais 3 milhões de crianças.    <a href="https://t.co/RscEn94hdb" target="_blank">https://t.co/RscEn94hdb</a>  <a href="https://t.co/PWn3nCDXWl" target="_blank">https://t.co/PWn3nCDXWl</a><a class="twitter_time" target="_blank" href="http://twitter.com/JovemPanNews/statuses/1197326301721513988">15 horas atrás</a></div></li></ul>			</div>
+			<div class="tweets-footer">
+				<a href="https://twitter.com/JovemPanNews" title="Siga a Jovem Pan no Twitter." target="_blank">@JovemPanNews</a>
+			</div>
+		</div>			
+		
+
+
+
+<div class="wp-block-jms-home-blocks-columns"><div class="row">
+<div class="wp-block-jms-home-blocks-column col-sm-4 col-xs-12">
+<section id="jp-lastest-posts-35" class="wp-block-jms-home-blocks-lastest-posts section-box lastest-posts lastest-posts-featured content-entretenimento"><div class="row"><div class="col-md-12"><div class="header-title"><div class="header"><a href="/entretenimento" target="_self" rel="noopener noreferrer"><h2 class="title">Entretenimento</h2></a></div></div></div></div><div class="row lastest-posts-row"><div class="lastest-posts-column col-xs-12"><div class="content content-featured"><div class="featured-news"><a href="https://jovempan.com.br/entretenimento/musica/bts-servico-militar-obrigatorio.html" target="_self" rel="noopener noreferrer" class="title"><span class="category">Música</span><img src="https://jpimg.com.br/uploads/2019/11/bts.jpg" class="post-image"/></a><a href="https://jovempan.com.br/entretenimento/musica/bts-servico-militar-obrigatorio.html" target="_self" rel="noopener noreferrer" class="title">Integrantes do BTS não serão dispensados do serviço militar </a></div><div class="more-news"><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2019/11/rennan-da-penha.jpg" class="post-image"/></div><div class="link"><a href="https://jovempan.com.br/entretenimento/famosos/rennan-penha-solto.html" target="_self" class="title" rel="noopener noreferrer">DJ Rennan da Penha será solto após habeas corpus concedido por STJ</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2019/11/fabio-barreto.jpg" class="post-image"/></div><div class="link"><a href="https://jovempan.com.br/entretenimento/tv-e-cinema/cineasta-fabio-barreto-morre.html" target="_self" class="title" rel="noopener noreferrer">Cineasta Fábio Barreto, diretor de &#8216;O Quatrilho&#8217;, morre aos 62 anos</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2019/11/better-call-saul.jpg" class="post-image"/></div><div class="link"><a href="https://jovempan.com.br/entretenimento/tv-e-cinema/data-5-temporada-better-call-saul.html" target="_self" class="title" rel="noopener noreferrer">&#8216;Better Call Saul&#8217;: 5ª temporada ganha data de estreia nos EUA</a></div></div></div></div></div></div></section>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-jms-home-blocks-column col-sm-4 col-xs-12">
+<section id="jp-lastest-posts-92" class="wp-block-jms-home-blocks-lastest-posts section-box lastest-posts lastest-posts-featured content-entretenimento"><div class="row"><div class="col-md-12"><div class="header-title"><div class="header"><a href="https://blog.jovempan.com.br/eva/" target="_blank" rel="noopener noreferrer"><h2 class="title">Mulher</h2></a></div></div></div></div><div class="row lastest-posts-row"><div class="lastest-posts-column col-xs-12"><div class="content content-featured"><div class="featured-news"><a href="https://blog.jovempan.com.br/mulheresdapan/manual-do-filho-relacionamento-entre-irmaos/" target="_blank" rel="noopener noreferrer" class="title"><span class="category">Podcast</span><img src="https://jpimg.com.br/uploads/2019/03/irmaos-filhos-criancas.jpg" class="post-image"/></a><a href="https://blog.jovempan.com.br/mulheresdapan/manual-do-filho-relacionamento-entre-irmaos/" target="_blank" rel="noopener noreferrer" class="title">Psicólogo debate o relacionamento entre irmãos no Manual do Filho</a></div><div class="more-news"><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2019/03/crianca-viagem-aviao.jpg" class="post-image"/></div><div class="link"><a href="https://blog.jovempan.com.br/mulheresdapan/dicas-para-viajar-com-bebe/ " target="_blank" class="title" rel="noopener noreferrer">Dicas para viajar de avião com bebê tranquilamente</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2019/03/olho-visao-oftalmo.jpg" class="post-image"/></div><div class="link"><a href="https://blog.jovempan.com.br/mulheresdapan/7-alimentos-que-ajudam-a-promover-a-saude-da-visao/" target="_blank" class="title" rel="noopener noreferrer">7 alimentos que ajudam a promover a saúde da visão</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2019/03/astrology-993127_1920.jpg" class="post-image"/></div><div class="link"><a href="https://blog.jovempan.com.br/mulheresdapan/vibes-da-semana-aproveite-periodo-de-venus-em-sagitario/" target="_blank" class="title" rel="noopener noreferrer"> Vibes da Semana: Aproveite período de Vênus em Sagitário </a></div></div></div></div></div></div></section>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-jms-home-blocks-column col-sm-4 col-xs-12">
+<section id="jp-blogs-37" class="wp-block-jms-home-blocks-blogs section-box blogs content-entretenimento"><div class="row"><div class="col-md-12"><div class="header-title"><div class="header"><a href="/blogs" target="_self" rel="noopener noreferrer"><h2 class="title">Blogs</h2></a></div></div></div></div><div class="row"><div class="col-md-12"><div class="content content-blogs"><div class="more-news"><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2018/11/avatar-fefito-1.jpg" class="post-image"/></div><div class="link"><a class="title" href="https://blog.jovempan.com.br/blogdofefito" target="_self" rel="noopener noreferrer">Blog do Fefito</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2017/06/avatar-paulinha-v2.jpg" class="post-image"/></div><div class="link"><a class="title" href="http://blog.jovempan.com.br/paulacarvalho/" target="_self" rel="noopener noreferrer">Paula Carvalho</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2019/03/guia-sp.png" class="post-image"/></div><div class="link"><a class="title" href="https://blog.jovempan.com.br/guiaspjp/" target="_self" rel="noopener noreferrer">Guia SP JP</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2018/08/JaqueJP-150x150.png" class="post-image"/></div><div class="link"><a class="title" href="https://blog.jovempan.com.br/saudeeperspectivas/" target="_blank" rel="noopener noreferrer">Saúde &#038; Perspectiva</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2018/11/avatar-trip-to-follow_02.jpg" class="post-image"/></div><div class="link"><a class="title" href="https://blog.jovempan.com.br/triptofollow" target="_self" rel="noopener noreferrer">Trip To Follow</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2018/08/itunes_turismo_jp.jpg" class="post-image"/></div><div class="link"><a class="title" href="https://blog.jovempan.com.br/turismojp/" target="_blank" rel="noopener noreferrer">Turismo JP</a></div></div></div></div></div></div></section>
+
+
+
+<p></p>
+</div>
+</div></div>
+
+
+
+<div class="jp-ads-area"><div data-banner="true" data-bannerid="banner-970x250-2-area" data-mobilebannerid="banner-300x250-2-area" data-bannersize="[[970, 250],[300, 250]]"></div></div>
+
+
+
+<div class="wp-block-jms-home-blocks-columns"><div class="row">
+<div class="wp-block-jms-home-blocks-column col-md-8 col-sm-7 col-xs-12">
+<section id="jp-lastest-posts-13" class="wp-block-jms-home-blocks-lastest-posts section-box lastest-posts lastest-posts-list content-esportes"><div class="row"><div class="col-md-12"><div class="header-title"><div class="header"><a href="/esportes" target="_self" rel="noopener noreferrer"><h2 class="title">Esportes</h2></a></div></div></div></div><div class="row lastest-posts-row"><div class="lastest-posts-column col-xs-12"><div class="content content-list"><div class="more-news"><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2019/09/gabigol-comemora-o-golaco-marcado-na-vitoria-do-flamengo-sobre-o-santos.jpg" class="post-image"/></div><div class="link"><span class="category">Expectativa</span><a href="https://jovempan.com.br/esportes/futebol/gabigol-espera-invasao-flamenguista-no-peru-para-se-sentir-em-casa-na-final-da-libertadores.html" target="_self" class="title" rel="noopener noreferrer">Gabigol espera &#8216;invasão&#8217; flamenguista no Peru para se &#8216;sentir em casa&#8217; na final da Libertadores</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2019/09/jorge-jesus.jpg" class="post-image"/></div><div class="link"><span class="category">Já pensou?</span><a href="https://jovempan.com.br/esportes/futebol/jorge-jesus-esteve-perto-de-treinar-o-barcelona-em-2015-revela-ex-jogador.html" target="_self" class="title" rel="noopener noreferrer">Jorge Jesus esteve perto de treinar o Barcelona em 2015, revela ex-jogador</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2019/10/odr20191002082.jpg" class="post-image"/></div><div class="link"><span class="category">Torcida</span><a href="https://jovempan.com.br/esportes/futebol/rivaldo-promete-torcer-pelo-flamengo-na-libertadores-e-elogia-gallardo.html" target="_self" class="title" rel="noopener noreferrer">Rivaldo promete torcer pelo Flamengo na Libertadores e elogia Gallardo</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2017/12/O-presidente-do-São-Paulo-Leco-quer-separar-o-futebol-profissional-das-atividades-amadoras-e-sociais-do-clube.jpg" class="post-image"/></div><div class="link"><span class="category">São Paulo</span><a href="https://jovempan.com.br/esportes/futebol/sao-paulo-futebol/leco-garante-fernando-diniz-em-2020-e-rebate-protestos-minha-consciencia-ta-tranquila.html" target="_self" class="title" rel="noopener noreferrer">Leco garante Fernando Diniz em 2020 e rebate protestos: &#8216;Minha consciência tá tranquila&#8217;</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2019/05/46961141805_c7cfa2a336_b.jpg" class="post-image"/></div><div class="link"><span class="category">Santos</span><a href="https://jovempan.com.br/esportes/futebol/santos/diretor-do-racing-esta-no-brasil-para-tentar-acertar-a-contratacao-de-sampaoli.html" target="_self" class="title" rel="noopener noreferrer">Diretor do Racing está no Brasil para tentar acertar a contratação de Sampaoli</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2019/03/637040873099076513w.jpg" class="post-image"/></div><div class="link"><span class="category">Futebol Internacional</span><a href="https://jovempan.com.br/esportes/futebol/futebol-internacional/tuchel-critica-presenca-de-neymar-na-copa-davis-nao-sou-pai-dele-e-nem-a-policia.html" target="_self" class="title" rel="noopener noreferrer">Tuchel critica presença de Neymar na Copa Davis: &#8216;Não sou pai dele e nem a polícia&#8217;</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2018/02/MauricioPochettino-Tottenham-EFE-07022018.jpg" class="post-image"/></div><div class="link"><span class="category">Mercado da Bola</span><a href="https://jovempan.com.br/esportes/futebol/futebol-internacional/bayern-de-munique-considera-contratar-mauricio-pochettino-diz-tv.html" target="_self" class="title" rel="noopener noreferrer">Bayern de Munique considera contratar Maurício Pochettino, diz TV</a></div></div><div class="news-small"><div class="image"><img src="https://jpimg.com.br/uploads/2017/04/I_20111205_113144.jpg" class="post-image"/></div><div class="link"><span class="category">Ídolo do clube</span><a href="https://jovempan.com.br/esportes/futebol/futebol-internacional/riquelme-anuncia-candidatura-a-vice-presidencia-do-boca-juniors.html" target="_self" class="title" rel="noopener noreferrer">Riquelme anuncia candidatura à vice-presidência do Boca Juniors</a></div></div></div></div></div></div></section>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-jms-home-blocks-column col-md-4 col-sm-5 col-xs-12">
+<section id="jp-blogs-35" class="wp-block-jms-home-blocks-blogs section-box blogs content-esportes"><div class="row"><div class="col-md-12"><div class="header-title"><div class="header"><a href="/blogs" target="_self" rel="noopener noreferrer"><h2 class="title">Blogs</h2></a></div></div></div></div><div class="row"><div class="col-md-12"><div class="content content-blogs"><div class="more-news"><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2018/06/fotos-blogs-wanderley-1.jpg" class="post-image"/></div><div class="link"><a class="title" href="http://blog.jovempan.com.br/wanderleynogueira/" target="_self" rel="noopener noreferrer">Wanderley Nogueira</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2018/06/fotos-blogs-mauro-betting.jpg" class="post-image"/></div><div class="link"><a class="title" href="http://blog.jovempan.com.br/pontodebola/" target="_self" rel="noopener noreferrer">Mauro Beting</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2018/06/fotos-blogs-nilson-cesar-1.jpg" class="post-image"/></div><div class="link"><a class="title" href="http://blog.jovempan.com.br/nilsoncesar/" target="_self" rel="noopener noreferrer">Nilson Cesar</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2018/05/fotos-blogs-flavio-prado.jpg" class="post-image"/></div><div class="link"><a class="title" href="http://blog.jovempan.com.br/flavioprado/" target="_self" rel="noopener noreferrer">Flávio Prado</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2018/06/fotos-blogs-favara.jpg" class="post-image"/></div><div class="link"><a class="title" href="http://blog.jovempan.com.br/faustofavara/" target="_self" rel="noopener noreferrer">Fausto Favara</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2018/06/fotos-blogs-gabriel-dias-2.jpg" class="post-image"/></div><div class="link"><a class="title" href="http://blog.jovempan.com.br/gabrieldias/" target="_self" rel="noopener noreferrer">Gabriel Dias</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2018/06/fotos-blogs-marcio-spimpolo-1.jpg" class="post-image"/></div><div class="link"><a class="title" href="http://blog.jovempan.com.br/blogdospimpolo/" target="_self" rel="noopener noreferrer">Blog do Spimpolo</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2018/10/ALEX-BLACK-2.jpg" class="post-image"/></div><div class="link"><a class="title" href="https://blog.jovempan.com.br/maquinasnapan/" target="_self" rel="noopener noreferrer">Máquinas na Pan</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2018/06/fotos-blogs-bruno-prado.jpg" class="post-image"/></div><div class="link"><a class="title" href="http://blog.jovempan.com.br/brunoprado/" target="_self" rel="noopener noreferrer">Bruno Prado</a></div></div><div class="news-small"><div class="image"><img src="//jpimg.com.br/uploads/2018/06/fotos-blogs-vampeta-150x150.jpg" class="post-image"/></div><div class="link"><a class="title" href="http://blog.jovempan.com.br/vampeta/" target="_self" rel="noopener noreferrer">Vampeta</a></div></div></div></div></div></div></section>
+
+
+
+<p></p>
+</div>
+</div></div>
+
+
+
+<section id="jp-podcasts-41" class="wp-block-jms-home-blocks-podcasts section-box podcasts content-podcasts"><div class="row"><div class="col-md-12"><div class="header-title"><div class="header"><a href="/podcasts" target="_self" rel="noopener noreferrer"><h2 class="title">Podcasts</h2></a></div></div></div></div><div class="row"><div class="col-md-12"><iframe src="https://omny.fm/shows/jovem-pan-news/playlists/jp-podcast/embed?style=cover" class="embed-podcasts" width="100%" height="500" frameborder="0" title="Jovem Pan Podcasts"></iframe></div></div></section>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="OUTBRAIN" data-outbrain="true" data-src="https://jovempan.com.br" data-widget-id="SF_1" data-ob-template="jpfm"></div>
+    </div>
+  </div>
+</div>
+            </div><!--/main_content-->
+          </div><!--/wrap-->
+        </div><!--/bguol-->
+    </main>
+    <footer id="main-footer">
+      <section class="footer-menu clearfix">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+               <div id="footer-navbar" class="menu-menu-footer-container"><ul id="menu-menu-footer" class="footer-navbar-nav"><li id="menu-item-380549" class="menu-title noticias menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-380549"><a href="https://jovempan.com.br/noticias">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-403565" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-403565"><a href="https://jovempan.com.br/noticias/brasil">Brasil</a></li>
+	<li id="menu-item-403568" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-403568"><a href="https://jovempan.com.br/noticias/economia">Economia</a></li>
+	<li id="menu-item-406479" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-406479"><a href="https://jovempan.com.br/noticias/mundo">Mundo</a></li>
+	<li id="menu-item-604768" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-604768"><a href="https://jovempan.com.br/noticias/entenda">Entenda</a></li>
+	<li id="menu-item-722859" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-722859"><a href="https://jovempan.com.br/eleicoes-2018">Eleições 2018</a></li>
+</ul>
+</li>
+<li id="menu-item-380551" class="menu-title esportes menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-380551"><a href="https://jovempan.com.br/esportes">Esportes</a>
+<ul class="sub-menu">
+	<li id="menu-item-403570" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-403570"><a href="https://jovempan.com.br/esportes/futebol">Futebol</a></li>
+	<li id="menu-item-406478" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-406478"><a href="https://jovempan.com.br/programas/gols-da-pan">Gols da Pan</a></li>
+	<li id="menu-item-406477" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-406477"><a href="https://jovempan.com.br/esportes/outros-esportes">Outros Esportes</a></li>
+</ul>
+</li>
+<li id="menu-item-380553" class="menu-title entretenimento menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-380553"><a href="https://jovempan.com.br/entretenimento">Entretenimento</a>
+<ul class="sub-menu">
+	<li id="menu-item-406476" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-406476"><a href="https://jovempan.com.br/entretenimento/famosos">Famosos</a></li>
+	<li id="menu-item-857070" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-857070"><a href="https://blog.jovempan.com.br/mulheresdapan/">Mulheres da Pan</a></li>
+	<li id="menu-item-832348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-832348"><a href="https://jovempan.com.br/entretenimento/musica">Música</a></li>
+	<li id="menu-item-722864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-722864"><a href="https://jovempan.com.br/playlist/hit-parade">Playlists</a></li>
+	<li id="menu-item-857073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-857073"><a href="https://blog.jovempan.com.br/guiaspjp/">Revista JP/Guia JP</a></li>
+	<li id="menu-item-403576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-403576"><a href="https://jovempan.com.br/entretenimento/tv-e-cinema">TV e Cinema</a></li>
+	<li id="menu-item-600988" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-600988"><a href="https://jovempan.com.br/entretenimento/zona-gamer">Zona Gamer</a></li>
+</ul>
+</li>
+<li id="menu-item-380555" class="menu-title menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-380555"><a href="https://jovempan.com.br/programas">Programas</a>
+<ul class="sub-menu">
+	<li id="menu-item-739975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-739975"><a href="https://jovempan.com.br/videos/programas/jornal-da-manha">Jornal da Manhã</a></li>
+	<li id="menu-item-405097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405097"><a href="https://jovempan.com.br/videos/programas/jovem-pan-morning-show">Morning Show</a></li>
+	<li id="menu-item-739976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-739976"><a href="https://jovempan.com.br/videos/programas/camisa-10">Camisa 10</a></li>
+	<li id="menu-item-405098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405098"><a href="https://jovempan.com.br/videos/programas/panico">Pânico</a></li>
+	<li id="menu-item-739979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-739979"><a href="https://jovempan.com.br/videos/programas/jornal-jovem-pan">Jornal Jovem Pan</a></li>
+	<li id="menu-item-739981" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-739981"><a href="https://jovempan.com.br/videos/programas/esporte-em-discussao">Esporte em Discussão</a></li>
+	<li id="menu-item-739982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-739982"><a href="https://jovempan.com.br/videos/programas/3-em-1">3 em 1</a></li>
+	<li id="menu-item-739984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-739984"><a href="https://jovempan.com.br/videos/programas/os-pingos-nos-is">Pingos nos Is</a></li>
+	<li id="menu-item-812154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-812154"><a href="https://jovempan.com.br/videos/programas/pra-cima-deles">Pra Cima Deles</a></li>
+	<li id="menu-item-739409" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-739409"><a href="https://jovempan.com.br/programas/perguntar-nao-ofende">Perguntar Não Ofende</a></li>
+	<li id="menu-item-739985" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-739985"><a href="https://jovempan.com.br/videos/programas/saude-mental">Saúde Mental</a></li>
+	<li id="menu-item-804403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-804403"><a href="https://jovempan.com.br/videos/programas/stand-up-jp">Stand Up JP</a></li>
+</ul>
+</li>
+<li id="menu-item-417917" class="menu-title menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-417917"><a href="http://jp.com.br">Mais JP</a>
+<ul class="sub-menu">
+	<li id="menu-item-417918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-417918"><a href="https://jovempan.com.br/videos">JP TV</a></li>
+	<li id="menu-item-417926" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-417926"><a href="https://jovempan.com.br/opiniao-jovem-pan">Opinião Jovem Pan</a></li>
+	<li id="menu-item-417919" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-417919"><a href="https://jovempan.com.br/podcasts">Podcasts</a></li>
+	<li id="menu-item-417920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-417920"><a href="http://jovempanmitosefatos.com.br">Mitos e Fatos</a></li>
+	<li id="menu-item-608103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-608103"><a href="https://jovempan.com.br/blogs">Blogs</a></li>
+	<li id="menu-item-426992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426992"><a href="https://jovempan.com.br/jovem-pan-ao-vivo">Ouça a Rádio Jovem Pan Ao Vivo</a></li>
+	<li id="menu-item-427321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427321"><a href="https://jovempan.com.br/programacao">Programação</a></li>
+	<li id="menu-item-434132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-434132"><a href="https://jovempan.com.br/jpnews">JPNews</a></li>
+	<li id="menu-item-771062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-771062"><a href="https://jovempan.com.br/ultimas">Últimas Notícias</a></li>
+</ul>
+</li>
+</ul></div>            </div>
+          </div>
+        </div><!--/container-->
+      </section><!--/footer-menu-->
+      <section class="footer-copyright clearfix">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-sm-1 col-md-1">
+              <a href="https://jovempan.com.br"><img src="//s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jovempan-white.png?v2" alt="Jovem Pan" title="Jovem Pan" class="img-responsive logo-footer" /></a>
+            </div>
+            <div class="col-xs-12 col-sm-11 col-md-6">
+              <div id="footer-navbar" class="menu-menu-footer-base-container"><ul id="menu-menu-footer-base" class="footer-navbar-nav"><li id="menu-item-380567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-380567"><a href="https://jovempan.com.br/anuncie">Anuncie</a></li>
+<li id="menu-item-380569" class="no-ajax menu-item menu-item-type-custom menu-item-object-custom menu-item-380569"><a href="https://jovempan.com.br/feed">Feed RSS</a></li>
+<li id="menu-item-402954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402954"><a href="https://jovempan.com.br/aplicativos">Aplicativos</a></li>
+<li id="menu-item-380566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-380566"><a href="https://jovempan.com.br/fale-conosco">Fale Conosco</a></li>
+</ul></div>            </div>
+            <div class="col-xs-12 col-sm-10 col-md-4">
+              <ul class="social list-inline">
+                <li class="ico-facebook no-ajax">
+                  <a target="_blank" href="https://facebook.com/jovempannews/" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+                </li>
+                <li class="ico-youtube no-ajax">
+                  <a target="_blank" href="https://www.youtube.com/user/portaljovempan/" title="Youtube"><i class="fab fa-youtube"></i></a>
+                </li>
+                <li class="ico-twitter no-ajax">
+                  <a target="_blank" href="https://twitter.com/JovemPanNews/" title="Twitter"><i class="fab fa-twitter"></i></a>
+                </li>
+                <li class="ico-instagram no-ajax">
+                  <a target="_blank" href="https://www.instagram.com/jovempannewsoficial/" title="Instagram"><i class="fab fa-instagram"></i></a>
+                </li>
+                <li class="ico-instagram no-ajax">
+                  <a target="_blank" href="https://flipboard.com/@JovemPan" title="Flipboard"><i class="fab fa-flipboard"></i></a>
+                </li>
+                <li class="ico-whatsapp no-ajax">
+                  <a target="_blank" href="https://wa.me/5511931170620" title="Whatsapp"><i class="fab fa-whatsapp"></i> <span>(11) 93117-0620</span></a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-xs-12 col-sm-1 col-md-1 no-ajax">
+              <a href="http://jmscomunicacao.com.br" target="_blank"><img src="//s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jmscomunicacao-white.png" alt="JMS Comunicação" title="JMS Comunicação" class="logo-jms"></a>
+            </div>
+          </div><!--/row-->
+        </div><!--/container-->
+      </section><!--/footer-copyright-->
+      <section id="tag-footer" class="clearfix">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6">
+              Todos os direitos reservados - Portal Jovem Pan Online - Rádio Panamericana S/A<br>
+              Av. Paulista, 807 - 24º andar - Cerqueira César - São Paulo - SP<br>
+            </div>
+            <div class="col-md-6 col-contacts">
+              +55 11 2870-9700 - jovempanonline@jovempan.com.br<br>
+              Whatsapp: (11) 93117-0620<br>
+            </div>
+          </div>
+        </div>
+      </section>
+    </footer>
+    
+    <script type='text/javascript' src='//s.jpimg.com.br/wp-content/themes/jovempan/assets/build/js/main.js?ver=c18822d242a222ef55eddff17e6bafda'></script>
+
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script async src="//platform.instagram.com/en_US/embeds.js"></script>
+    <script async src="//cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
+    <div id="fb-root"></div>
+    <script async src="//connect.facebook.net/pt_BR/all.js#xfbml=1"></script>
+    <script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
+    <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '474441002974508');
+      fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=474441002974508&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+  </body>
+</html>
