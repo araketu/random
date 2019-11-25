@@ -720,3 +720,23 @@ bail@chrome://marionette/content/sync.js:237:64
 1574448850730	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
 bail@chrome://marionette/content/sync.js:237:64
 1574448864588	Marionette	INFO	Stopped listening on port 41427
+[Parent 19061, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574452678114	Marionette	INFO	Stopped listening on port 43313
+[Parent 18203, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574452687180	Marionette	INFO	Stopped listening on port 35735
+[Parent 13064, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-cfmLQt/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1574452690353	Marionette	INFO	Stopped listening on port 39001
+1574681615716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef7WvF1"
+1574681616480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574681616480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574681616480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574681616480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1574681619233	Marionette	INFO	Listening on port 35153
+1574681619330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1574681623435	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1574681623738	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1574681623740	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1574681638719	Marionette	INFO	Stopped listening on port 35153
