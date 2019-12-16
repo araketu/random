@@ -28,20 +28,21 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 
 
-cap = DesiredCapabilities().FIREFOX
+# cap = DesiredCapabilities().FIREFOX
 
-options = webdriver.FirefoxProfile()
-options.set_preference("driver.download.dir", "/home/araketu/Documentos/dev/random")
-options.set_preference("driver.download.useDownloadDir", True)
-options.set_preference("driver.helperApps.neverAsk.saveToDisk", "audio/mpeg")
+# options = webdriver.FirefoxProfile()
+# options.set_preference("driver.download.dir", "/home/araketu/Documentos/dev/random")
+# options.set_preference("driver.download.useDownloadDir", True)
+# options.set_preference("driver.helperApps.neverAsk.saveToDisk", "audio/mpeg")
 
-# display = Display(visible=0, size=(800, 600))
-# display.start()
-cap["marionette"] = True
+# # display = Display(visible=0, size=(800, 600))
+# # display.start()
+# cap["marionette"] = True
 
 
-driver = webdriver.Firefox(firefox_profile=options, executable_path="//usr/local/bin/geckodriver")
+# driver = webdriver.Firefox(firefox_profile=options, executable_path="//usr/local/bin/geckodriver")
 
+driver = webdriver.Chrome()
 
 print('\nEntrando no site TST...')
 driver.get('http://www.tst.jus.br/certidao')
