@@ -85,22 +85,6 @@ def cert_tst(CNPJ):
     handles = driver.window_handles;
     size = len(handles);
     
-
-    if (size != '1'):
-        driver.switch_to_window(driver.window_handles[1])
-        actionChain = ActionChains(driver)
-        actionChain.context_click(soundb).perform()
-        pyautogui.typewrite(['down','down','down','down','enter'])
-        time.sleep(3) 
-    else:
-    
-        actionChain = ActionChains(driver)
-        actionChain.context_click(soundb).perform()
-        pyautogui.typewrite(['down','down','down','down','enter'])
-        time.sleep(3) 
-
-    
-      
         
 
     actionChain = ActionChains(driver)
@@ -115,9 +99,14 @@ def cert_tst(CNPJ):
     print('\nFazendo o Download do arquivo de som ')
     time.sleep(3) 
 
-    #convert mp3 file to wav                                                       
-    sound = AudioSegment.from_mp3("/home/araketu/Downloads/soundCaptcha.mp3")
-    sound.export("transcript.wav", format="wav")
+    try:
+        #convert mp3 file to wav                                                       
+        sound = AudioSegment.from_mp3("/home/araketu/Downloads/soundCaptcha.mp3")
+        sound.export("transcript.wav", format="wav")
+    except:
+        print('\nNão encontrou o arquivo de som')
+        driver.quit()
+        cert_tst(CNPJ)    
 
     fh = open("recognized.txt", "w+") 
 
@@ -147,16 +136,28 @@ def cert_tst(CNPJ):
     # If the results cannot be requested from Google. 
     # Probably an internet connection error. 
     except sr.RequestError as e: 
-        print("Could not request results.Não foi possível acessar o serviço do google")
+        print("Não foi possível acessar o serviço do google")
     inputer2 = driver.find_element_by_xpath("//input[@name='gerarCertidaoForm:textoAudioCaptcha']")
     inputer2.send_keys(nums)
 
     emiti = driver.find_element_by_xpath("//input[@name='gerarCertidaoForm:btnEmitirCertidao']")
     emiti.click()
-
     time.sleep(3)
 
-    pyautogui.typewrite(['enter','enter'])
+    # erro = driver.find_element_by_xpath("//li['Código de validação inválido.']")
+    filename ='/home/araketu/Downloads/' + 'certidao_'+ str(CNPJ) +'.pdf'
+    erro = os.path.exists(filename)    
+
+
+    if erro:
+        print(erro)
+    else:
+        print("\nErro ao enviar os núemros")
+        print(erro)
+        driver.quit()
+        cert_tst(CNPJ)
+
+    pyautogui.typewrite(['enter','enter','enter'])
     print('\nCertidão emitida')
 
 
@@ -202,10 +203,11 @@ def cert_tst(CNPJ):
     #Get Status from certidão
     status = re.search("NÃO CONSTA",text)
 
+    print('\n--------------------------------------------------------')
     if status:
-        print("Certidão: Negativa")
+        print("\nCertidão: Negativa")
     else:
-        print("Certidão: Positiva")
+        print("\nCertidão: Positiva")
 
     
     list01 = []
